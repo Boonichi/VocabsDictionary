@@ -19,41 +19,49 @@ Top_Frame.pack(side = TOP)
 Bottom_Frame= Frame(Root)
 Bottom_Frame.pack(side = BOTTOM)
 ###
-def TextOccur(VocabsListBox):
-    Clicked_item = VocabsListBox.curselection()
-    print(Clicked_item)
+def PrintText(self):
+    LibraryText.delete('1.0', END)
+    with open(filename + '/Definitions/' + VocabsListBox.selection_get() + '.txt', 'r') as File:
+        LibraryText.insert(END,File.read())
+    LibraryText.pack(side = RIGHT, fill = BOTH, expand = True)
 def LibraryWindow():
     global LibraryWin
+    global LibraryText
+    global VocabsListBox
     try:
         if LibraryWin.state() == "normal": LibraryWin.focus()
     except:
         LibraryWin = Toplevel()
         LibraryWin.title('Library')
         LibraryWin.geometry("500x400")
-        ###VocabsListBox = Listbox(Left_Frame,height = 400, width = 200,selectmode = SINGLE)
-        '''for i in range(len(os.listdir(filename+'/Definitions'))):
-            if os.path.splitext(os.listdir(filename+'/Definitions')[i])[1] == '.mp3':
-                VocabsListBox.insert(i,os.path.splitext(os.listdir(filename+'Definitions')[i])[0])'''
-        ###VocabsListBox.pack()
-        ###VocabsListBox.bind('<Double-Button>',TextOccur(VocabsListBox))
-        VocabsInput =Text(LibraryWin, width = 2, height = 2 ).pack()
+        ScrollVocabsListBox = Scrollbar(LibraryWin, orient = VERTICAL) 
+        VocabsListBox = Listbox(LibraryWin,height = 25, width = 15,selectmode = SINGLE, yscrollcommand=ScrollVocabsListBox.set,font = 3)
+        List = os.listdir(filename+'/Definitions')
+        for i in range(len(List)):
+            if os.path.splitext(List[i])[1] == '.txt':
+                VocabsListBox.insert(i,os.path.splitext(List[i])[0])
+        VocabsListBox.pack(side = LEFT,fill = BOTH)
+        LibraryText = Text(LibraryWin, height = 25,width = 40)
+        LibraryText.pack(side = RIGHT, fill = BOTH, expand = True)
+        VocabsListBox.bind('<Double-Button>',PrintText)
 def remove_html_tags(text):
     """Remove html tags from a string"""
     import re
     clean = re.compile('<.*?>')
     return re.sub(' +', ' ',re.sub(clean, ' ', text))
 def FormatPassage(Vocab,Index,Definitions,Examples):
+    print(Definitions,Examples)
     File = open(filename +'/Definitions/' + Vocab+'.txt','a')
     Definitions = str(Index) + '. ' + Definitions[1:].capitalize() + ':'
     File.writelines(Definitions+'\n')
-    String = Examples[1]
+    Result = ' ' + Examples[1]
     for index in range(2,len(Examples)):
-        if Examples[index].isupper() == True:
-            Result = String
-            File.writelines('    ' + Result+'\n')
-            String = Examples[index]
+        if Examples[index] == '.' or Examples[index] == '?' or Examples[index] == ':':
+            Result+= Examples[index]
+            File.writelines('    ' +'.'+ Result+'\n')
+            Result = ''
         else:
-            String+= Examples[index]
+            Result+= Examples[index]
     File.close()
 def WriteFile(Pattern,text):
     File = open(Pattern,'wb')
@@ -90,12 +98,16 @@ def DefinitionVocab(Vocab):
     soup = BS(Page.content, 'lxml')
     if not os.path.exists(filename+'/Definitions'):
         os.mkdir(filename+'/Definitions')
-    VocabsDefinition = soup.findAll('span', attrs= {'class':'def'})
-    VocabsExamples = soup.findAll('span', attrs={'x-gs'})
     File = open(filename +'/Definitions/' + Vocab+'.txt','w')
     File.close()
-    for Index in range(len(VocabsDefinition)):
-        FormatPassage(Vocab,Index,remove_html_tags(str(VocabsDefinition[Index])),remove_html_tags(str(VocabsExamples[Index])))
+    SoupContent = soup.find( attrs = {'class':'sn-gs'})
+    print(SoupContent)
+    SoupContent = SoupContent.findAll( attrs = {'class':'sn-g'})
+    print(SoupContent)
+    for Index in range(len(SoupContent)):
+        VocabsDefinition = SoupContent[Index].find('span', attrs= {'class':'def'})
+        VocabsExamples = SoupContent[Index].find('span', attrs={'class':'x-gs'})
+        FormatPassage(Vocab,Index,remove_html_tags(str(VocabsDefinition)),remove_html_tags(str(VocabsExamples)))
 def Vocabs_Handle():
     inputValue=VocabsInput.get("1.0",END)
     for Vocab in inputValue.splitlines():
