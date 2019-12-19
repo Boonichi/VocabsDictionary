@@ -16,6 +16,8 @@ filename = os.getcwd()
 ### All Frame Location:
 Top_Frame = Frame(Root)
 Top_Frame.pack(side = TOP)
+Mid_Frame = Frame(Root)
+Mid_Frame.pack(side = TOP)
 Bottom_Frame= Frame(Root)
 Bottom_Frame.pack(side = BOTTOM)
 ###
@@ -24,6 +26,14 @@ def PrintText(self):
     with open(filename + '/Definitions/' + VocabsListBox.selection_get() + '.txt', 'r') as File:
         LibraryText.insert(END,File.read())
     LibraryText.pack(side = RIGHT, fill = BOTH, expand = True)
+def Search(*args):
+    Pattern = Search_Content.get()
+    List = os.listdir(filename+'/Definitions')
+    VocabsListBox.delete(0,END)
+    for i in range(len(List)):
+        if os.path.splitext(List[i])[1] == '.txt' and re.match(Pattern,os.path.splitext(List[i])[0]):
+            VocabsListBox.insert(i,os.path.splitext(List[i])[0])
+    VocabsListBox.pack(side = LEFT,fill = BOTH)
 def LibraryWindow():
     global LibraryWin
     global LibraryText
@@ -34,6 +44,10 @@ def LibraryWindow():
         LibraryWin = Toplevel()
         LibraryWin.title('Library')
         LibraryWin.geometry("500x400")
+        global Search_Content
+        Search_Content = StringVar()
+        Search_Engine = Entry(LibraryWin,width = 15, textvariable = Search_Content)
+        Search_Engine.pack(side = TOP)
         ScrollVocabsListBox = Scrollbar(LibraryWin, orient = VERTICAL) 
         VocabsListBox = Listbox(LibraryWin,height = 25, width = 15,selectmode = SINGLE, yscrollcommand=ScrollVocabsListBox.set,font = 3)
         List = os.listdir(filename+'/Definitions')
@@ -43,6 +57,7 @@ def LibraryWindow():
         VocabsListBox.pack(side = LEFT,fill = BOTH)
         LibraryText = Text(LibraryWin, height = 25,width = 40)
         LibraryText.pack(side = RIGHT, fill = BOTH, expand = True)
+        LibraryWin.bind('<Key>',Search)
         VocabsListBox.bind('<Double-Button>',PrintText)
 def remove_html_tags(text):
     """Remove html tags from a string"""
@@ -114,11 +129,10 @@ def Vocabs_Handle():
         DownloadAudio(Vocab)
         DefinitionVocab(Vocab)
 ### Text Box
-Label(Top_Frame, text ="Type Your Vocabs:", bg = "White").pack()
-LibraryButton = Button(Top_Frame, text="Library", fg="Black", bg="White", command = LibraryWindow)
-LibraryButton.pack()
-VocabsInput =Text(Top_Frame, width = 50, height = 20)
-VocabsInput.pack()
+Label(Top_Frame, text ="Type Your Vocabs:", bg = "White").grid(sticky = W,row = 0, column = 0, padx = 50)
+LibraryButton = Button(Top_Frame, text="Library", fg="Black", bg="White", command = LibraryWindow).grid(sticky = E,row = 0, column = 1,padx = 50)
+VocabsInput =Text(Mid_Frame, width = 50, height = 20)
+VocabsInput.pack(fill = BOTH, expand = TRUE)
 ###
 ### Button Settings:
 QuitButton = Button(Bottom_Frame, text = "QUIT", fg = "Black", bg = "White", command = quit).grid(row = 0, column = 0,sticky = W)

@@ -1,0 +1,1849 @@
+<!doctype html>
+<html lang="en" >
+
+<head>
+    	    <link href="/common.css?version=5.0.65" rel="stylesheet" type="text/css" />
+	    <title>CDO - Error - 404</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="404. Page not found" />
+    <meta name="keywords" content="Page not found" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name='viewport' content="width=device-width,minimum-scale=1,initial-scale=1"/>
+            <meta name="robots" content="noindex" />
+    
+            
+    
+        
+    <meta property="og:url" content="https://dictionary.cambridge.org/pageNotFound" />
+        <link rel="canonical" href="https://dictionary.cambridge.org/pageNotFound" />
+
+        
+        <meta name="google-site-verification" content="lg0qcRkaLtMeKJcXsOLoptzK-2MIRJzuEtiYHZf_O2Y" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://dictionary.cambridge.org/external/images/favicon.ico?version=5.0.65"/>
+    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://dictionary.cambridge.org/external/images/apple-touch-icon-precomposed.png?version=5.0.65"/>
+    <link rel="preload" href="/external/fonts/cdoicons.woff?version=5.0.65" as="font" crossorigin>
+    <meta property="og:title" content="CDO - Error - 404" />
+    <meta property="og:description" content="404. Page not found" />
+    <meta property="og:image" content="/external/images/CDO_logo_120x120.jpg?version=5.0.65" />
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+        <link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+    <link rel="preconnect" href="https://fastlane.rubiconproject.com">
+    <link rel="preconnect" href="https://ib.adnxs.com">
+    <link rel="preconnect" href="https://as-sec.casalemedia.com">
+    <link rel="preconnect" href="https://idm-d.openx.net">
+    <link rel="preconnect" href="https://adserver.adtech.de">
+    <link rel="preconnect" href="https://adserver-us.adtech.advertising.com">
+    <link rel="preconnect" href="https://ap.lijit.com">
+    <link rel="preconnect" href="https://bidder.criteo.com">
+    <script async type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script type="text/javascript" src="/required.js?version=5.0.65"></script>
+        <script async src="https://cdn.ampproject.org/rtv/011908231648370/v0.js"></script>
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-bind-0.1.js"></script>
+            <script async custom-element="amp-form" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-form-0.1.js"></script>
+        <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-sidebar-0.1.js"></script>
+    <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-accordion-0.1.js"></script>
+    <script async custom-element="amp-list" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-list-0.1.js"></script>
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-mustache-0.2.js"></script>
+    <script async custom-element="amp-access" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-access-0.1.js"></script>
+    <script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-user-notification-0.1.js"></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-analytics-0.1.js"></script>
+                <script async custom-element="amp-audio" src="https://cdn.ampproject.org/rtv/011908231648370/v0/amp-audio-0.1.js"></script>
+                
+        
+                
+                                    
+                                            <script type='text/javascript'>
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for ( var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ')
+            c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) == 0)
+            return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+}
+
+var pl_did = readCookie("pl_did");
+var pl_p = localStorage.pl;
+</script>            
+    <script type='text/javascript'>
+        var pbHdSlots = [];
+        var pbDesktopSlots = [];
+        var pbTabletSlots = [];
+        var pbMobileHrSlots = [];
+        var pbMobileLrSlots = [];
+        var pbjs = pbjs || {};
+        pbjs.que = pbjs.que || [];
+
+        const customGranularity = {
+          'buckets': [{
+              'min': 0,
+              'max': 3,
+              'increment': 0.01,
+              'cap': true
+          },{
+              'min': 3.05,
+              'max': 8,
+              'increment': 0.05,
+              'cap': true
+          },{
+              'min': 8.50,
+              'max': 30,
+              'increment': 0.5,
+              'cap': true
+          },{
+              'min': 31,
+              'max': 36,
+              'increment': 1,
+              'cap': true
+          }]
+        };
+        pbjsCfg = {
+            priceGranularity: customGranularity,
+            enableSendAllBids: false,
+            bidderSequence: "fixed"
+        };
+                pbjs.que.push(function() {
+            pbjs.setConfig(pbjsCfg);
+        });
+    </script>
+    <script type='text/javascript'>
+        var pbAdUnits = getPrebidSlots(curResolution);
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function() {
+            googletag.pubads().disableInitialLoad();
+        });
+                    addPrebidAdUnits(pbAdUnits);
+        
+        var dfpSlots = {};
+
+        googletag.cmd.push(function() {
+            
+
+            googletag.pubads().setTargeting('ad_h', Adomik.hour);
+                                                                    googletag.pubads().setTargeting("cdo_l", "en");
+                                                                            googletag.pubads().setTargeting("cdo_tc", "resp");
+                                                
+            if(pl_p)
+                googletag.pubads().setTargeting('cdo_alc_pr', pl_p.split(","));
+
+                                                                            googletag.pubads().setCategoryExclusion('resp').setCategoryExclusion('wprod');
+            
+            
+                        googletag.pubads().set("page_url", "https://dictionary.cambridge.org/pageNotFound");
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs(false);
+            googletag.enableServices();
+
+            if(refreshConfig.enabled == true)
+                initAdSlotRefresher();
+        });
+    </script>
+
+                    <script>
+                (function(h,o,t,j,a,r){
+                    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                    h._hjSettings={hjid:1376297,hjsv:6};
+                    a=o.getElementsByTagName('head')[0];
+                    r=o.createElement('script');r.async=1;
+                    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                    a.appendChild(r);
+                })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+            </script>
+            
+    <script id="amp-access" type="application/json">
+        {
+            "authorization": "https://dictionary.cambridge.org/auth/info?rid=READER_ID&url=CANONICAL_URL&ref=DOCUMENT_REFERRER&type=&v1=&v2=&v3=&v4=&_=RANDOM",
+            "noPingback": true,
+            "login": {
+                "sign-in": "https://dictionary.cambridge.org/auth/signin?rid=READER_ID",
+                "sign-up": "https://dictionary.cambridge.org/auth/signup?rid=READER_ID",
+                "sign-out": "https://dictionary.cambridge.org/auth/signout?rid=READER_ID"
+            },
+            "authorizationFallbackResponse": {
+                "error": true,
+                "loggedIn": false
+            },
+            "authorizationTimeout": 10000
+        }
+    </script>
+              <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-31379-3',{cookieDomain:'dictionary.cambridge.org',siteSpeedSampleRate: 10});
+      
+      ga('require', 'displayfeatures');
+      
+                                ga('set', 'dimension3', "default");
+                    ga('send', 'pageview');
+      
+                    ga('send', 'event', 'Error', 'HTTP_404', 'page: ' + document.location.pathname + document.location.search + ' ref: ' + document.referrer, 0, {'nonInteraction': 1});
+          </script>
+  
+</head>
+
+<body class="default_layout">
+    <amp-state id="stateGlobal">
+    <script type="application/json">
+    {
+        "imageCredits": "",
+        "flyout": "",
+        "wlSenseId": "",
+        "modal": ""
+    }
+    </script>
+</amp-state>    <div id="top"></div>
+    
+<amp-state id="stateSidebarNav">
+    <script type="application/json">
+        {
+        "lang": false,
+        "dict": false,
+        "def": false,
+        "trans": false,
+        "userOptions": false,
+        "login": false
+        }
+    </script>
+</amp-state>
+
+<amp-sidebar id="sidebarNav" layout="nodisplay" side="left" class="bw cm-f">
+    <div class="hdn-s">
+
+        <div class="bh">
+            <div>
+                <div class="hdib hv-3 lpt-10 lpl-15 lpr-15">
+                    <a class="iwc bhb hdib hao fs18 fon" on="tap:sidebarNav.close" role="button" aria-label="Close site navigation panel" tabindex="0">
+                        <i class="i i-close iw" aria-hidden="true"></i>
+                    </a>
+                </div>
+
+                <div class="hdib hvt hao lpt-10 lpb-1 lpr-15">
+                    <a class="hdib lpt-1 lpb-5" href="./" title="Cambridge Dictionary">
+                        <amp-img src="/external/images/logo-lrg.png?version=5.0.65" alt="" height="30" width="95"></amp-img>
+                        <noscript>
+                            <img src="/external/images/logo-lrg.png?version=5.0.65" height="30" width="95" class="lpb-5" alt="Cambridge Dictionary" />
+                        </noscript>
+                    </a>
+                </div>
+            
+                <div class="hfr htr fs14 lpr-15 lpt-2">
+                    <div class="hdib lmt-5 lpt-2">
+                        <div class="pr hdib z2" amp-access="loggedIn">
+                            <a class="iwc iwc-f15" on="tap:AMP.setState({ stateSidebarNav: { userOptions: ! stateSidebarNav.userOptions } })" role="button" aria-label="View user options" tabindex="0">
+                                <i class="i i-user iw hv-2" aria-hidden="true"></i>
+                            </a>
+                                <div class="hdn" [class]="stateSidebarNav.userOptions ? 'pa pr0 pt100 lmt-1 tc-bd' : 'hdn'">
+        <div class="bw htl hbs lp-20 lpt-15 lpb-15 lmt-10 lmin-150">
+            <ul class="hul-u tw-nw lmb-0 han">
+                <li><a href="/plus/">Cambridge Dictionary +Plus</a></li>
+                <li><a href="/auth/profile">My profile</a></li>
+                <li><a href="/howto.html">+Plus help</a></li>
+                <li><a on="tap:amp-access.login-sign-out" class="logOutBtn">Log out</a></li>
+            </ul>
+        </div>
+    </div>
+                        </div>
+                        <div class="pr hdib" amp-access="NOT loggedIn">
+                            <a on="tap:amp-access.login-sign-in" class="iwc iwc-f15">
+                                <i class="i i-user iw hv-2" aria-hidden="true"></i>
+                            </a>
+                        </div>
+
+                        <div class="hdib lpl-15 lp-xs_l-10">
+                            <a href="#top" class="iwc bo hdib hao fs18" on="tap:AMP.setState({ stateHdr: { search: true, searchDesk: true } }),sidebarNav.close,searchword.focus">
+                                <i class="i i-search" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+
+    <div class="cm-fc cms fs14 tc-bd lm-auto">
+
+        <span class="pa pt0 pr0 hdn hdb-s lmt-5 lmr-15 lpt-15 hp fon"
+                on="tap:sidebarNav.close" role="button" aria-label="Close dictionary selection panel" tabindex="0">
+            <i class="i i-close ibd"></i>
+        </span>
+
+        <nav class="lp-s_t-5">
+
+            <div class="hdn hdb-s lp-15 lpb-20 lbb lb-cm">
+                <amp-img src="/external/images/logo-pos.png?version=5.0.65" alt="Cambridge Dictionary" height="53" width="168" noloading></amp-img>
+                <noscript>
+                    <img src="/external/images/logo-pos.png?version=5.0.65" height="53" width="168" alt="Cambridge Dictionary" />
+                </noscript>
+            </div>
+
+            <ul class="pr hul-u hul-un hul-u0 tc-d lmb-0 z1">
+                <li class="lbb">
+                    <a class="hdb hax lp-10 lpl-15 lpr-15"
+                            [class]="stateSidebarNav.dict ? 'hdb hax lp-10 lpl-15 lpr-15 on' : 'hdb hax lp-10 lpl-15 lpr-15'"
+                            on="tap: AMP.setState({ stateSidebarNav: { dict: !stateSidebarNav.dict } })">
+                        <span class="pr hdb tb">
+                            Dictionary                            <i class="i i-plus ibd pa pr0 lpt-2" [class]="stateSidebarNav.dict ? 'i i-minus ibd pa pr0 lpt-2' : 'i i-plus ibd pa pr0 lpt-2'"></i>  
+                        </span>
+                    </a>
+
+                    <div class="hdn" [class]="stateSidebarNav.dict ? '' : 'hdn'">
+                    <ul class="lmb-0">
+                                                                        <li class="lbt lb-cm">
+                            <a class="hdb hax lp-10 lpl-15 lpr-15"
+                                    [class]="stateSidebarNav.def ? 'pr hdb hax lp-10 lpl-15 lpr-15 on' : 'hdb hax lp-10 lpl-15 lpr-15'"
+                                    on="tap: AMP.setState({ stateSidebarNav: { def: ! stateSidebarNav.def } })">
+                                <span class="pr hdb">
+                                    <span class="fs12 tb tcu">Definitions</span>
+                                    <i class="i i-plus ibd pa pr0 lpt-2" [class]="stateSidebarNav.def ? 'i i-minus ibd pa pr0 lpt-2' : 'i i-plus ibd pa pr0 lpt-2'"></i>  
+                                </span> 
+                            </a>
+                            <div class="hdn" [class]="stateSidebarNav.def ? '' : 'hdn'">
+                                <div class="han lpl-15 lpr-15">
+                                    <div class="tc-bl lmb-5 lmt--3">
+                                        Clear explanations of natural written and spoken English                                    </div>
+                                    <ul class="fs16 lmb-15">
+                                                                                    <li class="lpt-5"><a href="/dictionary/english/">English</a></li>
+                                                                                    <li class="lpt-5"><a href="/dictionary/learner-english/">Learner’s Dictionary</a></li>
+                                                                                    <li class="lpt-5"><a href="/dictionary/essential-british-english/">Essential British English</a></li>
+                                                                                    <li class="lpt-5"><a href="/dictionary/essential-american-english/">Essential American English</a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </li>
+                                                <li class="lbt lb-cm">
+                            <a class="hdb hax lp-10 lpl-15 lpr-15"
+                                    [class]="stateSidebarNav.trans ? 'hdb hax lp-10 lpl-15 lpr-15 on' : 'hdb hax lp-10 lpl-15 lpr-15'"
+                                    on="tap: AMP.setState({ stateSidebarNav: { trans: ! stateSidebarNav.trans } })">
+                                <span class="pr hdb">
+                                    <span class="fs12 tb tcu">Translations</span>
+                                    <i class="i i-plus ibd pa pr0 lpt-2" [class]="stateSidebarNav.trans ? 'i i-minus ibd pa pr0 lpt-2' : 'i i-plus ibd pa pr0 lpt-2'"></i> 
+                                </span> 
+                            </a>
+                            <div class="hdn" [class]="stateSidebarNav.trans ? '' : 'hdn'">
+                                <div class="han lpl-15 lpr-15">
+                                                                                                            <div class="tc-bl lmb-5 lmt--3">
+                                        Click on the arrows to change the translation direction.                                    </div>
+                                                                        <ul class="fs16 lmb-15">
+                                                                                    <li class="tc-bd tb fs14 lpt-5 lpb-5">
+                                                <amp-state id="stateSidebarNavBi">
+                                                    <script type="application/json">
+                                                        {
+                                                                                                                    "english_french": false,
+                                                                                                                    "english_german": false,
+                                                                                                                    "english_indonesian": false,
+                                                                                                                    "english_italian": false,
+                                                                                                                    "english_japanese": false,
+                                                                                                                    "english_polish": false,
+                                                                                                                    "english_portuguese": false,
+                                                                                                                    "english_spanish": false,
+                                                                                                                "erroneous_extra_item": false
+                                                        }
+                                                    </script>
+                                                </amp-state>
+                                                Bilingual Dictionaries                                            </li>
+                                                                                            <li class="lpt-5">
+                                                    <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-5" on="tap: AMP.setState({ stateSidebarNavBi: { english_french: ! stateSidebarNavBi.english_french } })" role="button" title="Change language direction" tabindex="0"></i>
+                                                    <a href="/dictionary/english-french/" [class]="stateSidebarNavBi.english_french ? 'hdn' : ''" data-dictCode="english-french" title="English-French Dictionary">English&ndash;French</a>
+                                                                                                        <a href="/dictionary/french-english/" class="hdn" [class]="stateSidebarNavBi.english_french ? '' : 'hdn'" data-dictCode="french-english" title="French-English Dictionary">French&ndash;English</a>
+                                                </li>
+                                                                                            <li class="lpt-5">
+                                                    <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-5" on="tap: AMP.setState({ stateSidebarNavBi: { english_german: ! stateSidebarNavBi.english_german } })" role="button" title="Change language direction" tabindex="0"></i>
+                                                    <a href="/dictionary/english-german/" [class]="stateSidebarNavBi.english_german ? 'hdn' : ''" data-dictCode="english-german" title="English-German Dictionary">English&ndash;German</a>
+                                                                                                        <a href="/dictionary/german-english/" class="hdn" [class]="stateSidebarNavBi.english_german ? '' : 'hdn'" data-dictCode="german-english" title="German-English Dictionary">German&ndash;English</a>
+                                                </li>
+                                                                                            <li class="lpt-5">
+                                                    <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-5" on="tap: AMP.setState({ stateSidebarNavBi: { english_indonesian: ! stateSidebarNavBi.english_indonesian } })" role="button" title="Change language direction" tabindex="0"></i>
+                                                    <a href="/dictionary/english-indonesian/" [class]="stateSidebarNavBi.english_indonesian ? 'hdn' : ''" data-dictCode="english-indonesian" title="English-Indonesian Dictionary">English&ndash;Indonesian</a>
+                                                                                                        <a href="/dictionary/indonesian-english/" class="hdn" [class]="stateSidebarNavBi.english_indonesian ? '' : 'hdn'" data-dictCode="indonesian-english" title="Indonesian-English Dictionary">Indonesian&ndash;English</a>
+                                                </li>
+                                                                                            <li class="lpt-5">
+                                                    <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-5" on="tap: AMP.setState({ stateSidebarNavBi: { english_italian: ! stateSidebarNavBi.english_italian } })" role="button" title="Change language direction" tabindex="0"></i>
+                                                    <a href="/dictionary/english-italian/" [class]="stateSidebarNavBi.english_italian ? 'hdn' : ''" data-dictCode="english-italian" title="Cambridge English-Italian Dictionary">English&ndash;Italian</a>
+                                                                                                        <a href="/dictionary/italian-english/" class="hdn" [class]="stateSidebarNavBi.english_italian ? '' : 'hdn'" data-dictCode="italian-english" title="Italian-English Dictionary">Italian&ndash;English</a>
+                                                </li>
+                                                                                            <li class="lpt-5">
+                                                    <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-5" on="tap: AMP.setState({ stateSidebarNavBi: { english_japanese: ! stateSidebarNavBi.english_japanese } })" role="button" title="Change language direction" tabindex="0"></i>
+                                                    <a href="/dictionary/english-japanese/" [class]="stateSidebarNavBi.english_japanese ? 'hdn' : ''" data-dictCode="english-japanese" title="Cambridge English-Japanese Dictionary">English&ndash;Japanese</a>
+                                                                                                        <a href="/dictionary/japanese-english/" class="hdn" [class]="stateSidebarNavBi.english_japanese ? '' : 'hdn'" data-dictCode="japanese-english" title="Japanese-English Dictionary">Japanese&ndash;English</a>
+                                                </li>
+                                                                                            <li class="lpt-5">
+                                                    <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-5" on="tap: AMP.setState({ stateSidebarNavBi: { english_polish: ! stateSidebarNavBi.english_polish } })" role="button" title="Change language direction" tabindex="0"></i>
+                                                    <a href="/dictionary/english-polish/" [class]="stateSidebarNavBi.english_polish ? 'hdn' : ''" data-dictCode="english-polish" title="Cambridge English-Polish Dictionary">English&ndash;Polish</a>
+                                                                                                        <a href="/dictionary/polish-english/" class="hdn" [class]="stateSidebarNavBi.english_polish ? '' : 'hdn'" data-dictCode="polish-english" title="Polish-English Dictionary">Polish&ndash;English</a>
+                                                </li>
+                                                                                            <li class="lpt-5">
+                                                    <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-5" on="tap: AMP.setState({ stateSidebarNavBi: { english_portuguese: ! stateSidebarNavBi.english_portuguese } })" role="button" title="Change language direction" tabindex="0"></i>
+                                                    <a href="/dictionary/english-portuguese/" [class]="stateSidebarNavBi.english_portuguese ? 'hdn' : ''" data-dictCode="english-portuguese" title="Cambridge English-Portuguese Dictionary">English&ndash;Portuguese</a>
+                                                                                                        <a href="/dictionary/portuguese-english/" class="hdn" [class]="stateSidebarNavBi.english_portuguese ? '' : 'hdn'" data-dictCode="portuguese-english" title="Portuguese-English Dictionary">Portuguese&ndash;English</a>
+                                                </li>
+                                                                                            <li class="lpt-5">
+                                                    <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-5" on="tap: AMP.setState({ stateSidebarNavBi: { english_spanish: ! stateSidebarNavBi.english_spanish } })" role="button" title="Change language direction" tabindex="0"></i>
+                                                    <a href="/dictionary/english-spanish/" [class]="stateSidebarNavBi.english_spanish ? 'hdn' : ''" data-dictCode="english-spanish" title="English-Spanish Dictionary">English&ndash;Spanish</a>
+                                                                                                        <a href="/dictionary/spanish-english/" class="hdn" [class]="stateSidebarNavBi.english_spanish ? '' : 'hdn'" data-dictCode="spanish-english" title="Diccionario Espa&ntilde;ol-ingl&eacute;s">Spanish&ndash;English</a>
+                                                </li>
+                                                                                    
+                                                                                                                            <li class="tc-bd tb fs14 lpt-15 lpb-5">Semi-bilingual Dictionaries</li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/dutch-english/" title="Dutch-English Dictionary">Dutch&ndash;English</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-arabic/" title="Cambridge English-Arabic Dictionary">English&ndash;Arabic</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-catalan/" title="Cambridge English-Catalan Dictionary">English&ndash;Catalan</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-chinese-simplified/" title="Cambridge English-Chinese (Simplified) Dictionary">English&ndash;Chinese (Simplified)</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-chinese-traditional/" title="Cambridge English-Chinese (Traditional) Dictionary">English&ndash;Chinese (Traditional)</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-czech/" title="English-Czech Dictionary">English&ndash;Czech</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-danish/" title="English-Danish Dictionary">English&ndash;Danish</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-korean/" title="Cambridge English-Korean Dictionary">English&ndash;Korean</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-malaysian/" title="English-Malay Dictionary">English&ndash;Malay</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-norwegian/" title="English-Norwegian Dictionary">English&ndash;Norwegian</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-russian/" title="Cambridge English-Russian Dictionary">English&ndash;Russian</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-thai/" title="English-Thai Dictionary">English&ndash;Thai</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-turkish/" title="English-Turkish Dictionary, &#304;ngilizce-T&uuml;rk&ccedil;e &Ccedil;eviri">English&ndash;Turkish</a></li>
+                                                                                            <li class="lpt-5"><a href="/dictionary/english-vietnamese/" title="English-Vietnamese Dictionary">English&ndash;Vietnamese</a></li>
+                                                                                                                        </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    </div>
+                </li>
+                <li class="lbb lb-cm"><a href="/translate/" class="hdb tb hax lp-10 lpl-15 lpr-15">Translate</a></li>
+                                <li class="lbb lb-cm"><a href="/grammar/british-grammar/" class="hdb tb hax lp-10 lpl-15 lpr-15">Grammar</a></li>
+                                <li class="lbb lb-cm"><a href="/plus/" class="hdb tb hax lp-10 lpl-15 lpr-15">Cambridge Dictionary +Plus</a></li>
+                
+                <li class="hdn hdb-s lbb lb-cm">
+                    <section amp-access="loggedIn">
+                        <a class="hdb hax lp-10 lpl-15 lpr-15"
+                                [class]="stateSidebarNav.login ? 'hdb hax lp-10 lpl-15 lpr-15 on' : 'hdb hax lp-10 lpl-15 lpr-15'"
+                                on="tap: AMP.setState({ stateSidebarNav: { login: !stateSidebarNav.login } })">
+                            <span class="pr hdb tb">
+                                <template amp-access-template type="amp-mustache">
+                                    <i class="i i-user ibd fs16 hv-2 lpr-2"></i> {{userName}}
+                                </template>
+                                <i class="i i-plus ibd pa pr0 lpt-2" [class]="stateSidebarNav.login ? 'i i-minus ibd pa pr0 lmt--19' : 'i i-plus ibd pa pr0 lmt--19'"></i>  
+                            </span>
+                        </a>
+                        <div class="hdn" [class]="stateSidebarNav.login ? '' : 'hdn'">
+                            <div class="han lpl-15 lpr-15">
+                                <ul class="fs16 lmb-15">
+                                    <li class="lpt-5"><a href="/mydictionary/">Cambridge Dictionary +Plus</a></li>
+                                    <li class="lpt-5"><a href="/auth/profile">My profile</a></li>
+                                    <li class="lpt-5"><a href="/howto.html">+Plus help</a></li>
+                                    <li class="lpt-5"><a on="tap:amp-access.login-sign-out">Log out</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+                    <section amp-access="NOT loggedIn">
+                        <a on="tap:amp-access.login-sign-in" class="hdib tb hax lpb-10 lpt-10 lpl-15"><i class="i i-user ibd fs16 hv-2 lpr-2"></i> Log in</a> /
+                        <a on="tap:amp-access.login-sign-up" class="hdib tb hax lpb-10 lpt-10 lpr-15"> Sign up</a>
+                    </section>
+                </li>
+            </ul>
+        </nav>
+
+        <div class="lp-15 lbb lb-cm">
+            <div>
+                <a class="hax hdb pr" on="tap: AMP.setState({ stateSidebarNav: { lang: ! stateSidebarNav.lang } })">
+                    <i class="i i-globe ibd fs16 hv-2"></i> 
+                    <span class="lpl-2">English (UK) <span class="tb">&nbsp;</span></span>
+
+                    <span class="pa pt0 pr0" [class]="stateSidebarNav.lang ? 'hdn' : 'pa pt0 pr0'">Change</span>
+                    <i class="hdn" [class]="stateSidebarNav.lang ? 'i i-minus ibd pa pr5' : 'hdn'"></i>
+                </a>
+
+                <div class="hdn" [class]="stateSidebarNav.lang ? 'han' : 'hdn'">
+                    <ul class="hul-u lmt-10 lmb-0 lpl-20 cdo-locale-selector">
+                                                    <li><a href="/pageNotFound" hreflang="en">English (UK)</a></li>
+                                                    <li><a href="/us/pageNotFound" hreflang="en-US">English (US)</a></li>
+                                                    <li><a href="/es/pageNotFound" hreflang="es">Español</a></li>
+                                                    <li><a href="/es-LA/pageNotFound" hreflang="es-419">Español (Latinoamérica)</a></li>
+                                                    <li><a href="/ru/pageNotFound" hreflang="ru">Русский</a></li>
+                                                    <li><a href="/pt/pageNotFound" hreflang="pt">Português</a></li>
+                                                    <li><a href="/de/pageNotFound" hreflang="de">Deutsch</a></li>
+                                                    <li><a href="/fr/pageNotFound" hreflang="fr">Français</a></li>
+                                                    <li><a href="/it/pageNotFound" hreflang="it">Italiano</a></li>
+                                                    <li><a href="/zhs/pageNotFound" hreflang="zh-Hans">中文 (简体)</a></li>
+                                                    <li><a href="/zht/pageNotFound" hreflang="zh-Hant">正體中文 (繁體)</a></li>
+                                                    <li><a href="/pl/pageNotFound" hreflang="pl">Polski</a></li>
+                                                    <li><a href="/ko/pageNotFound" hreflang="ko">한국어</a></li>
+                                                    <li><a href="/tr/pageNotFound" hreflang="tr">Türkçe</a></li>
+                                                    <li><a href="/ja/pageNotFound" hreflang="ja">日本語</a></li>
+                                                    <li><a href="/vi/pageNotFound" hreflang="vi">Tiếng Việt</a></li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+
+                <div class="lp-15 lbb lb-cm">
+            <div class="hdb pr">
+                <span class="tb">Follow us</span>
+                <div class="pa pt0 pr0">
+                    <div class="hdib lpr-2"><a href="https://www.facebook.com/CambridgeDictionariesOnline/" target="_blank" rel="noopener noreferrer" title="Likes" class="hao lpl-10 lpr-10"><i class="i i-facebook fs16" aria-hidden="true"></i></a></div>
+                    <div class="hdib lpr-2"><a href="https://www.instagram.com/cambridgewords" target="_blank" rel="noopener noreferrer" title="Followers" class="hao lpl-10 lpr-10"><i class="i i-instagram fs16" aria-hidden="true"></i></a></div>
+                    <div class="hdib"><a href="https://twitter.com/CambridgeWords" target="_blank" rel="noopener noreferrer" title="Followers" class="hao lpl-10"><i class="i i-twitter fs16" aria-hidden="true"></i></a></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="htc lmt-20 lmb-20">
+            <div class="a a-hook lm-auto"></div>
+        </div>
+    </div>
+</amp-sidebar>
+
+<amp-state id="stateSidebarDict">
+    <script type="application/json">
+        {
+        "open": false,
+        "recent": true,
+        "def": true,
+        "trans": true,
+        "plus": true
+        }
+    </script>
+</amp-state>
+
+<amp-sidebar id="sidebarDict" layout="nodisplay" side="right" class="bw cm-f" on="sidebarOpen:AMP.setState({ stateSidebarDict: { open: true } })">
+
+    <div class="pr cm-fc cms lm-auto">
+        <span class="pa pt0 pr0 lmt-5 lmr-15 lpt-15 hp fon"
+                on="tap:sidebarDict.close" role="button" aria-label="Close dictionary selection panel" tabindex="0">
+            <i class="i i-close ibd"></i>
+        </span>
+
+        <div class="han tc-bd fs14 lpt-5">
+
+            <div class="fs18 lp-5 lpt-20 lpb-15 lpl-15">
+                Choose a dictionary            </div>
+
+            <nav>
+                <ul class="hul-u hul-un hul-u0 lmb-0">
+                    <li class="lbt lb-cm">
+                        <a class="hdb hax lp-10 lpl-15 lpr-15"
+                                on="tap: AMP.setState({ stateSidebarDict: { recent: ! stateSidebarDict.recent } })">
+                            <span class="pr hdb">
+                                <span class="fs12 tcu">Recent and Recommended</span>
+                                <i class="i i-minus ibd pa pr0 lpt-2" [class]="stateSidebarDict.recent ? 'i i-minus ibd pa pr0 lpt-2' : 'i i-plus ibd pa pr0 lpt-2'"></i>
+                            </span> 
+                        </a>
+                        <div class="lpl-15 lpr-15" [class]="stateSidebarDict.recent ? 'lpl-15 lpr-15' : 'hdn'">
+                            <div class="pr tc-d fs16 lmb-20">
+                                <div amp-access="1=1">
+                                    <template amp-access-template type="amp-mustache">
+                                        {{#preferredDictionaries}}
+                                            <div class="lmb-5">
+                                                <a class="hp"
+                                                    on="tap:AMP.setState({ stateSearch: { dataset: '{{dataCode}}', dataset_text: '{{name}}', dataset_search: 'Search {{name}}'} }), sidebarDict.close, searchword.focus"
+                                                    role="button" aria-label="Set dictionary search to {{name}}" tabindex="0">
+                                                    {{name}}
+                                                </a>
+                                            </div>
+                                        {{/preferredDictionaries}}
+                                    </template>
+                                </div>
+                                <div class="pa p0 bw" [class]="stateSidebarDict.open ? 'hdn' : 'pa p0 bw'">
+                                    <span class="pa p0 bload"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                                                            <li class="lbt lb-cm">
+                        <a class="hdb hax lp-10 lpl-15 lpr-15"
+                                on="tap: AMP.setState({ stateSidebarDict: { def: ! stateSidebarDict.def } })">
+                            <span class="pr hdb">
+                                <span class="fs12 tcu">Definitions and Grammar</span>
+                                <i class="i i-minus ibd pa pr0 lpt-2" [class]="stateSidebarDict.def ? 'i i-minus ibd pa pr0 lpt-2' : 'i i-plus ibd pa pr0 lpt-2'"></i>  
+                            </span> 
+                        </a>
+                        <div class="lpl-15 lpr-15" [class]="stateSidebarDict.def ? 'lpl-15 lpr-15' : 'hdn'">
+                            <div class="tc-bl lmb-5 lmt--3">
+                                Clear explanations of natural written and spoken English                            </div>
+                            <ul class="hul-u tc-d fs16">
+                                                            <li>
+                                    <a data-dictCode="english" class="hp"
+                                        on="tap:AMP.setState({ stateSearch: { dataset: 'english', dataset_text: 'English', dataset_search: 'Search English' } }), sidebarDict.close, searchword.focus"
+                                        role="button" aria-label="Set dictionary search to English" tabindex="0"
+                                        title="English">English</a>
+                                </li>
+                                                            <li>
+                                    <a data-dictCode="learner-english" class="hp"
+                                        on="tap:AMP.setState({ stateSearch: { dataset: 'learner-english', dataset_text: 'Learner&rsquo;s Dictionary', dataset_search: 'Search Learner&rsquo;s Dictionary' } }), sidebarDict.close, searchword.focus"
+                                        role="button" aria-label="Set dictionary search to Learner&rsquo;s Dictionary" tabindex="0"
+                                        title="Learner&rsquo;s Dictionary">Learner&rsquo;s Dictionary</a>
+                                </li>
+                                                            <li>
+                                    <a data-dictCode="essential-british-english" class="hp"
+                                        on="tap:AMP.setState({ stateSearch: { dataset: 'essential-british-english', dataset_text: 'Essential British English', dataset_search: 'Search Essential British English' } }), sidebarDict.close, searchword.focus"
+                                        role="button" aria-label="Set dictionary search to Essential British English" tabindex="0"
+                                        title="Essential British English">Essential British English</a>
+                                </li>
+                                                            <li>
+                                    <a data-dictCode="essential-american-english" class="hp"
+                                        on="tap:AMP.setState({ stateSearch: { dataset: 'essential-american-english', dataset_text: 'Essential American English', dataset_search: 'Search Essential American English' } }), sidebarDict.close, searchword.focus"
+                                        role="button" aria-label="Set dictionary search to Essential American English" tabindex="0"
+                                        title="Essential American English">Essential American English</a>
+                                </li>
+                                                            <li>
+                                    <a data-dictCode="british-grammar" class="hp"
+                                        on="tap:AMP.setState({ stateSearch: { dataset: 'british-grammar', dataset_text: 'Grammar', dataset_search: 'Search Grammar' } }), sidebarDict.close, searchword.focus"
+                                        role="button" aria-label="Set dictionary search to Grammar" tabindex="0"
+                                        title="Grammar">Grammar</a>
+                                </li>
+                                                        </ul>
+                        </div>
+                    </li>
+                    
+                    <li class="lbt lb-cm">
+                        <a class="hdb hax lp-10 lpl-15 lpr-15"
+                                on="tap: AMP.setState({ stateSidebarDict: { trans: ! stateSidebarDict.trans } })">
+                            <span class="pr hdb">
+                                <span class="fs12 tcu">Translation</span>
+                                <i class="i i-minus ibd pa pr0 lpt-2" [class]="stateSidebarDict.trans ? 'i i-minus ibd pa pr0 lpt-2' : 'i i-plus ibd pa pr0 lpt-2'"></i>
+                            </span>
+                        </a>
+                        <div class="lpl-15 lpr-15" [class]="stateSidebarDict.trans ? 'lpl-15 lpr-15' : 'hdn'">
+
+                                                                                        <amp-state id="stateSidebarDictBi">
+                                    <script type="application/json">
+                                        {
+                                                                                    "english_french": false,
+                                                                                    "english_german": false,
+                                                                                    "english_indonesian": false,
+                                                                                    "english_italian": false,
+                                                                                    "english_japanese": false,
+                                                                                    "english_polish": false,
+                                                                                    "english_portuguese": false,
+                                                                                    "english_spanish": false,
+                                                                                "erroneous_extra_item": false
+                                        }
+                                    </script>
+                                </amp-state>
+
+                                <div class="tc-bl lmb-5 lmt--3">
+                                    Click on the arrows to change the translation direction.                                </div>
+
+                                <div class="tb lmt-10 lmb-5">Bilingual Dictionaries</div>
+                                <ul class="hul-u tc-d fs16 lmb-15">
+                                                                    <li>
+                                        <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-10" title="Change language direction"
+                                            on="tap: AMP.setState({ stateSidebarDictBi: { english_french: ! stateSidebarDictBi.english_french }, stateSearch: { dataset: stateSidebarDictBi.english_french ? 'english-french' : 'french-english', dataset_text: stateSidebarDictBi.english_french ? 'English&ndash;French' : 'French&ndash;English', dataset_search: stateSidebarDictBi.english_french ? 'Search English&ndash;French' : 'Search French&ndash;English' } })"
+                                            role="button" aria-label="Change language direction" tabindex="0" aria-hidden="true">
+                                        </i>
+                                        <a data-dictCode="english-french" class="hp"
+                                            [class]="stateSidebarDictBi.english_french ? 'hdn' : 'hp'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'english-french', dataset_text: 'English&ndash;French', dataset_search: 'Search English&ndash;French' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-French Dictionary"
+                                            tabindex="0" title="English-French Dictionary">English&ndash;French</a>
+                                        <a data-dictCode="french-english" class="hdn"
+                                            [class]="stateSidebarDictBi.english_french ? 'hp' : 'hdn'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'french-english', dataset_text: 'French&ndash;English', dataset_search: 'Search French&ndash;English' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to French-English Dictionary"
+                                            tabindex="0" title="French-English Dictionary">French&ndash;English</a>
+                                    </li>
+                                                                    <li>
+                                        <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-10" title="Change language direction"
+                                            on="tap: AMP.setState({ stateSidebarDictBi: { english_german: ! stateSidebarDictBi.english_german }, stateSearch: { dataset: stateSidebarDictBi.english_german ? 'english-german' : 'german-english', dataset_text: stateSidebarDictBi.english_german ? 'English&ndash;German' : 'German&ndash;English', dataset_search: stateSidebarDictBi.english_german ? 'Search English&ndash;German' : 'Search German&ndash;English' } })"
+                                            role="button" aria-label="Change language direction" tabindex="0" aria-hidden="true">
+                                        </i>
+                                        <a data-dictCode="english-german" class="hp"
+                                            [class]="stateSidebarDictBi.english_german ? 'hdn' : 'hp'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'english-german', dataset_text: 'English&ndash;German', dataset_search: 'Search English&ndash;German' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-German Dictionary"
+                                            tabindex="0" title="English-German Dictionary">English&ndash;German</a>
+                                        <a data-dictCode="german-english" class="hdn"
+                                            [class]="stateSidebarDictBi.english_german ? 'hp' : 'hdn'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'german-english', dataset_text: 'German&ndash;English', dataset_search: 'Search German&ndash;English' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to German-English Dictionary"
+                                            tabindex="0" title="German-English Dictionary">German&ndash;English</a>
+                                    </li>
+                                                                    <li>
+                                        <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-10" title="Change language direction"
+                                            on="tap: AMP.setState({ stateSidebarDictBi: { english_indonesian: ! stateSidebarDictBi.english_indonesian }, stateSearch: { dataset: stateSidebarDictBi.english_indonesian ? 'english-indonesian' : 'indonesian-english', dataset_text: stateSidebarDictBi.english_indonesian ? 'English&ndash;Indonesian' : 'Indonesian&ndash;English', dataset_search: stateSidebarDictBi.english_indonesian ? 'Search English&ndash;Indonesian' : 'Search Indonesian&ndash;English' } })"
+                                            role="button" aria-label="Change language direction" tabindex="0" aria-hidden="true">
+                                        </i>
+                                        <a data-dictCode="english-indonesian" class="hp"
+                                            [class]="stateSidebarDictBi.english_indonesian ? 'hdn' : 'hp'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'english-indonesian', dataset_text: 'English&ndash;Indonesian', dataset_search: 'Search English&ndash;Indonesian' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Indonesian Dictionary"
+                                            tabindex="0" title="English-Indonesian Dictionary">English&ndash;Indonesian</a>
+                                        <a data-dictCode="indonesian-english" class="hdn"
+                                            [class]="stateSidebarDictBi.english_indonesian ? 'hp' : 'hdn'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'indonesian-english', dataset_text: 'Indonesian&ndash;English', dataset_search: 'Search Indonesian&ndash;English' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Indonesian-English Dictionary"
+                                            tabindex="0" title="Indonesian-English Dictionary">Indonesian&ndash;English</a>
+                                    </li>
+                                                                    <li>
+                                        <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-10" title="Change language direction"
+                                            on="tap: AMP.setState({ stateSidebarDictBi: { english_italian: ! stateSidebarDictBi.english_italian }, stateSearch: { dataset: stateSidebarDictBi.english_italian ? 'english-italian' : 'italian-english', dataset_text: stateSidebarDictBi.english_italian ? 'English&ndash;Italian' : 'Italian&ndash;English', dataset_search: stateSidebarDictBi.english_italian ? 'Search English&ndash;Italian' : 'Search Italian&ndash;English' } })"
+                                            role="button" aria-label="Change language direction" tabindex="0" aria-hidden="true">
+                                        </i>
+                                        <a data-dictCode="english-italian" class="hp"
+                                            [class]="stateSidebarDictBi.english_italian ? 'hdn' : 'hp'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'english-italian', dataset_text: 'English&ndash;Italian', dataset_search: 'Search English&ndash;Italian' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Italian Dictionary"
+                                            tabindex="0" title="Cambridge English-Italian Dictionary">English&ndash;Italian</a>
+                                        <a data-dictCode="italian-english" class="hdn"
+                                            [class]="stateSidebarDictBi.english_italian ? 'hp' : 'hdn'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'italian-english', dataset_text: 'Italian&ndash;English', dataset_search: 'Search Italian&ndash;English' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Italian-English Dictionary"
+                                            tabindex="0" title="Italian-English Dictionary">Italian&ndash;English</a>
+                                    </li>
+                                                                    <li>
+                                        <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-10" title="Change language direction"
+                                            on="tap: AMP.setState({ stateSidebarDictBi: { english_japanese: ! stateSidebarDictBi.english_japanese }, stateSearch: { dataset: stateSidebarDictBi.english_japanese ? 'english-japanese' : 'japanese-english', dataset_text: stateSidebarDictBi.english_japanese ? 'English&ndash;Japanese' : 'Japanese&ndash;English', dataset_search: stateSidebarDictBi.english_japanese ? 'Search English&ndash;Japanese' : 'Search Japanese&ndash;English' } })"
+                                            role="button" aria-label="Change language direction" tabindex="0" aria-hidden="true">
+                                        </i>
+                                        <a data-dictCode="english-japanese" class="hp"
+                                            [class]="stateSidebarDictBi.english_japanese ? 'hdn' : 'hp'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'english-japanese', dataset_text: 'English&ndash;Japanese', dataset_search: 'Search English&ndash;Japanese' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Japanese Dictionary"
+                                            tabindex="0" title="Cambridge English-Japanese Dictionary">English&ndash;Japanese</a>
+                                        <a data-dictCode="japanese-english" class="hdn"
+                                            [class]="stateSidebarDictBi.english_japanese ? 'hp' : 'hdn'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'japanese-english', dataset_text: 'Japanese&ndash;English', dataset_search: 'Search Japanese&ndash;English' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Japanese-English Dictionary"
+                                            tabindex="0" title="Japanese-English Dictionary">Japanese&ndash;English</a>
+                                    </li>
+                                                                    <li>
+                                        <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-10" title="Change language direction"
+                                            on="tap: AMP.setState({ stateSidebarDictBi: { english_polish: ! stateSidebarDictBi.english_polish }, stateSearch: { dataset: stateSidebarDictBi.english_polish ? 'english-polish' : 'polish-english', dataset_text: stateSidebarDictBi.english_polish ? 'English&ndash;Polish' : 'Polish&ndash;English', dataset_search: stateSidebarDictBi.english_polish ? 'Search English&ndash;Polish' : 'Search Polish&ndash;English' } })"
+                                            role="button" aria-label="Change language direction" tabindex="0" aria-hidden="true">
+                                        </i>
+                                        <a data-dictCode="english-polish" class="hp"
+                                            [class]="stateSidebarDictBi.english_polish ? 'hdn' : 'hp'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'english-polish', dataset_text: 'English&ndash;Polish', dataset_search: 'Search English&ndash;Polish' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Polish Dictionary"
+                                            tabindex="0" title="Cambridge English-Polish Dictionary">English&ndash;Polish</a>
+                                        <a data-dictCode="polish-english" class="hdn"
+                                            [class]="stateSidebarDictBi.english_polish ? 'hp' : 'hdn'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'polish-english', dataset_text: 'Polish&ndash;English', dataset_search: 'Search Polish&ndash;English' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Polish-English Dictionary"
+                                            tabindex="0" title="Polish-English Dictionary">Polish&ndash;English</a>
+                                    </li>
+                                                                    <li>
+                                        <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-10" title="Change language direction"
+                                            on="tap: AMP.setState({ stateSidebarDictBi: { english_portuguese: ! stateSidebarDictBi.english_portuguese }, stateSearch: { dataset: stateSidebarDictBi.english_portuguese ? 'english-portuguese' : 'portuguese-english', dataset_text: stateSidebarDictBi.english_portuguese ? 'English&ndash;Portuguese' : 'Portuguese&ndash;English', dataset_search: stateSidebarDictBi.english_portuguese ? 'Search English&ndash;Portuguese' : 'Search Portuguese&ndash;English' } })"
+                                            role="button" aria-label="Change language direction" tabindex="0" aria-hidden="true">
+                                        </i>
+                                        <a data-dictCode="english-portuguese" class="hp"
+                                            [class]="stateSidebarDictBi.english_portuguese ? 'hdn' : 'hp'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'english-portuguese', dataset_text: 'English&ndash;Portuguese', dataset_search: 'Search English&ndash;Portuguese' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Portuguese Dictionary"
+                                            tabindex="0" title="Cambridge English-Portuguese Dictionary">English&ndash;Portuguese</a>
+                                        <a data-dictCode="portuguese-english" class="hdn"
+                                            [class]="stateSidebarDictBi.english_portuguese ? 'hp' : 'hdn'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'portuguese-english', dataset_text: 'Portuguese&ndash;English', dataset_search: 'Search Portuguese&ndash;English' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Portuguese-English Dictionary"
+                                            tabindex="0" title="Portuguese-English Dictionary">Portuguese&ndash;English</a>
+                                    </li>
+                                                                    <li>
+                                        <i class="hp i i-exchange fs14 hv0 tc-p lpl-5 lpr-10" title="Change language direction"
+                                            on="tap: AMP.setState({ stateSidebarDictBi: { english_spanish: ! stateSidebarDictBi.english_spanish }, stateSearch: { dataset: stateSidebarDictBi.english_spanish ? 'english-spanish' : 'spanish-english', dataset_text: stateSidebarDictBi.english_spanish ? 'English&ndash;Spanish' : 'Spanish&ndash;English', dataset_search: stateSidebarDictBi.english_spanish ? 'Search English&ndash;Spanish' : 'Search Spanish&ndash;English' } })"
+                                            role="button" aria-label="Change language direction" tabindex="0" aria-hidden="true">
+                                        </i>
+                                        <a data-dictCode="english-spanish" class="hp"
+                                            [class]="stateSidebarDictBi.english_spanish ? 'hdn' : 'hp'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'english-spanish', dataset_text: 'English&ndash;Spanish', dataset_search: 'Search English&ndash;Spanish' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Spanish Dictionary"
+                                            tabindex="0" title="English-Spanish Dictionary">English&ndash;Spanish</a>
+                                        <a data-dictCode="spanish-english" class="hdn"
+                                            [class]="stateSidebarDictBi.english_spanish ? 'hp' : 'hdn'"
+                                            on="tap:AMP.setState({ stateSearch: { dataset: 'spanish-english', dataset_text: 'Spanish&ndash;English', dataset_search: 'Search Spanish&ndash;English' } }),sidebarDict.close,searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Diccionario Espa&ntilde;ol-ingl&eacute;s"
+                                            tabindex="0" title="Diccionario Espa&ntilde;ol-ingl&eacute;s">Spanish&ndash;English</a>
+                                    </li>
+                                                                </ul>
+                            
+                                                                                        <div class="tb lmb-5">Semi-bilingual Dictionaries</div>
+                                <ul class="hul-u tc-d lmt-10 fs16">
+                                                                    <li>
+                                        <a data-dictCode="dutch-english" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'dutch-english', dataset_text: 'Dutch&ndash;English', dataset_search: 'Search Dutch&ndash;English' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Dutch-English Dictionary"
+                                            tabindex="0" title="Dutch-English Dictionary">Dutch&ndash;English</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-arabic" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-arabic', dataset_text: 'English&ndash;Arabic', dataset_search: 'Search English&ndash;Arabic' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Arabic Dictionary"
+                                            tabindex="0" title="Cambridge English-Arabic Dictionary">English&ndash;Arabic</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-catalan" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-catalan', dataset_text: 'English&ndash;Catalan', dataset_search: 'Search English&ndash;Catalan' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Catalan Dictionary"
+                                            tabindex="0" title="Cambridge English-Catalan Dictionary">English&ndash;Catalan</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-chinese-simplified" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-chinese-simplified', dataset_text: 'English&ndash;Chinese (Simplified)', dataset_search: 'Search English&ndash;Chinese (Simplified)' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Chinese (Simplified) Dictionary"
+                                            tabindex="0" title="Cambridge English-Chinese (Simplified) Dictionary">English&ndash;Chinese (Simplified)</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-chinese-traditional" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-chinese-traditional', dataset_text: 'English&ndash;Chinese (Traditional)', dataset_search: 'Search English&ndash;Chinese (Traditional)' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Chinese (Traditional) Dictionary"
+                                            tabindex="0" title="Cambridge English-Chinese (Traditional) Dictionary">English&ndash;Chinese (Traditional)</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-czech" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-czech', dataset_text: 'English&ndash;Czech', dataset_search: 'Search English&ndash;Czech' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Czech Dictionary"
+                                            tabindex="0" title="English-Czech Dictionary">English&ndash;Czech</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-danish" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-danish', dataset_text: 'English&ndash;Danish', dataset_search: 'Search English&ndash;Danish' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Danish Dictionary"
+                                            tabindex="0" title="English-Danish Dictionary">English&ndash;Danish</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-korean" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-korean', dataset_text: 'English&ndash;Korean', dataset_search: 'Search English&ndash;Korean' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Korean Dictionary"
+                                            tabindex="0" title="Cambridge English-Korean Dictionary">English&ndash;Korean</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-malaysian" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-malaysian', dataset_text: 'English&ndash;Malay', dataset_search: 'Search English&ndash;Malay' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Malay Dictionary"
+                                            tabindex="0" title="English-Malay Dictionary">English&ndash;Malay</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-norwegian" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-norwegian', dataset_text: 'English&ndash;Norwegian', dataset_search: 'Search English&ndash;Norwegian' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Norwegian Dictionary"
+                                            tabindex="0" title="English-Norwegian Dictionary">English&ndash;Norwegian</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-russian" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-russian', dataset_text: 'English&ndash;Russian', dataset_search: 'Search English&ndash;Russian' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to Cambridge English-Russian Dictionary"
+                                            tabindex="0" title="Cambridge English-Russian Dictionary">English&ndash;Russian</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-thai" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-thai', dataset_text: 'English&ndash;Thai', dataset_search: 'Search English&ndash;Thai' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Thai Dictionary"
+                                            tabindex="0" title="English-Thai Dictionary">English&ndash;Thai</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-turkish" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-turkish', dataset_text: 'English&ndash;Turkish', dataset_search: 'Search English&ndash;Turkish' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Turkish Dictionary, &#304;ngilizce-T&uuml;rk&ccedil;e &Ccedil;eviri"
+                                            tabindex="0" title="English-Turkish Dictionary, &#304;ngilizce-T&uuml;rk&ccedil;e &Ccedil;eviri">English&ndash;Turkish</a>
+                                    </li>
+                                                                    <li>
+                                        <a data-dictCode="english-vietnamese" class="hp"
+                                            on="tap: AMP.setState({ stateSearch: { dataset: 'english-vietnamese', dataset_text: 'English&ndash;Vietnamese', dataset_search: 'Search English&ndash;Vietnamese' } }), sidebarDict.close, searchword.focus"
+                                            role="button" aria-label="Set dictionary search to English-Vietnamese Dictionary"
+                                            tabindex="0" title="English-Vietnamese Dictionary">English&ndash;Vietnamese</a>
+                                    </li>
+                                                                </ul>
+                           	                        </div>
+                    </li>
+
+                    <li class="lbt lb-cm">
+                        <a class="hdb hax lp-10 lpl-15 lpr-15"
+                                on="tap: AMP.setState({ stateSidebarDict: { plus: ! stateSidebarDict.plus } })">
+                            <span class="pr hdb">
+                                <span class="fs12 tcu">Dictionary +Plus</span>
+                                <i class="i i-minus ibd pa pr0 lpt-2" [class]="stateSidebarDict.plus ? 'i i-minus ibd pa pr0 lpt-2' : 'i i-plus ibd pa pr0 lpt-2'"></i>
+                            </span> 
+                        </a>
+                        <div class="lpl-15 lpr-15" [class]="stateSidebarDict.plus ? 'lpl-15 lpr-15' : 'hdn'">
+                            <div class="pr tc-d fs16 lmb-20">
+                                <div class="lmb-5">
+                                                                        <a data-dictCode="wordlists" class="hp"
+                                        on="tap:AMP.setState({ stateSearch: { dataset: 'wordlists', dataset_text: 'Word Lists', dataset_search: 'Search Word Lists' } }), sidebarDict.close, searchword.focus"
+                                        role="button" aria-label="Set dictionary search to Word Lists" tabindex="0"
+                                        title="Word Lists">Word Lists</a>
+                                </div>
+                                <div class="pa p0 bw" [class]="stateSidebarDict.open ? 'hdn' : 'pa p0 bw'">
+                                    <span class="pa p0 bload"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+</amp-sidebar>
+
+<amp-sidebar id="sidebarLang" layout="nodisplay" side="right" class="bw cm-f">
+
+    <div class="pr cms han">
+
+        <span class="pa pt0 pr0 lmt-5 lmr-15 lpt-15 hp fon"
+                on="tap:sidebarLang.close" role="button" aria-label="Close dictionary selection panel" tabindex="0">
+            <i class="i i-close ibd"></i>
+        </span>
+
+        <nav class="lp-s_t-5">
+    <div class="fs18 lbb lb-cm lp-5 lpt-20 lpb-15 lpl-15">
+        Choose your language
+    </div>
+            <div class="lp-15">
+                <span class="hax hdb pr">
+                    <i class="i i-globe ibd fs16 hv0"></i> 
+                    <span class="lpl-2">English (UK) <span class="tb">&nbsp;</span></span>
+                </span>
+
+                <div class="han">
+                    <ul class="hul-u lmt-10 lmb-0 lpl-20">
+                                                                                                                        <li><a href="/us/pageNotFound" hreflang="en-US">English (US)</a></li>
+                                                                                                <li><a href="/es/pageNotFound" hreflang="es">Español</a></li>
+                                                                                                <li><a href="/es-LA/pageNotFound" hreflang="es-419">Español (Latinoamérica)</a></li>
+                                                                                                <li><a href="/ru/pageNotFound" hreflang="ru">Русский</a></li>
+                                                                                                <li><a href="/pt/pageNotFound" hreflang="pt">Português</a></li>
+                                                                                                <li><a href="/de/pageNotFound" hreflang="de">Deutsch</a></li>
+                                                                                                <li><a href="/fr/pageNotFound" hreflang="fr">Français</a></li>
+                                                                                                <li><a href="/it/pageNotFound" hreflang="it">Italiano</a></li>
+                                                                                                <li><a href="/zhs/pageNotFound" hreflang="zh-Hans">中文 (简体)</a></li>
+                                                                                                <li><a href="/zht/pageNotFound" hreflang="zh-Hant">正體中文 (繁體)</a></li>
+                                                                                                <li><a href="/pl/pageNotFound" hreflang="pl">Polski</a></li>
+                                                                                                <li><a href="/ko/pageNotFound" hreflang="ko">한국어</a></li>
+                                                                                                <li><a href="/tr/pageNotFound" hreflang="tr">Türkçe</a></li>
+                                                                                                <li><a href="/ja/pageNotFound" hreflang="ja">日本語</a></li>
+                                                                                                <li><a href="/vi/pageNotFound" hreflang="vi">Tiếng Việt</a></li>
+                                                                    </ul>
+                </div>
+            </div>
+
+        </nav>
+
+    </div>
+
+</amp-sidebar>
+        
+        
+        
+<amp-state id="stateHdr">
+    <script type="application/json">
+    {
+        "search":  false ,
+        "searchDesk":  true ,
+        "userOptions": false
+    }
+    </script>
+</amp-state>
+
+<header id="header" class="pf ch q250 lc1" [class]="stateHdr.search && stateHdr.searchDesk ? 'pf ch ch-hs lc1' : 'pf ch q250 lc1'">
+
+    <div class="pr bh lcs z1 fon" role="button" on="tap: AMP.setState({ stateSearch: { autocomplete: false } })" aria-label="Close autocomplete" tabindex="0">
+
+        <div class="hfr htr fs14 lpr-15 lpt-2">
+
+                
+            <ul class="hdn hdib-m hul-u hul-ib lmb-0 lpl-20 lp-xs_l-25 han hax">
+                <li class="lpr-2"><a href="https://www.facebook.com/CambridgeDictionariesOnline/" title="Likes" class="hao lpl-10 lpr-15 i i-facebook iw fs16" target="_blank" rel="noopener" aria-hidden="true"></a></li>
+                <li class="lpr-5"><a href="https://www.instagram.com/cambridgewords/" title="Instagram" class="hao lpl-10 lpr-10 i i-instagram tc-w fs16" target="_blank" rel="noopener" aria-hidden="true"></a></li>
+                <li class="lpr-5"><a href="https://twitter.com/CambridgeWords" title="Followers" class="hao lpl-10 lpr-10 i i-twitter iw fs16" target="_blank" rel="noopener" aria-hidden="true"></a></li>
+            </ul>
+
+            <div class="hdib hdn-s lmt-5 lpt-2">
+                <div class="pr hdib" amp-access="loggedIn" amp-access-hide>
+                    <a class="iwc iwc-f15" on="tap:AMP.setState({ stateHdr: { userOptions: ! stateHdr.userOptions } })" role="button" 
+                            aria-label="View user options" tabindex="0">
+                        <i class="i i-user iw hv-2" aria-hidden="true"></i>
+                    </a>
+                        <div class="hdn" [class]="stateHdr.userOptions ? 'pa pr0 pt100 lmt-1 tc-bd' : 'hdn'">
+        <div class="bw htl hbs lp-20 lpt-15 lpb-15 lmt-10 lmin-150">
+            <ul class="hul-u tw-nw lmb-0 han">
+                <li><a href="/plus/">Cambridge Dictionary +Plus</a></li>
+                <li><a href="/auth/profile">My profile</a></li>
+                <li><a href="/howto.html">+Plus help</a></li>
+                <li><a on="tap:amp-access.login-sign-out" class="logOutBtn">Log out</a></li>
+            </ul>
+        </div>
+    </div>
+                </div>
+                <div class="pr hdib" amp-access="NOT loggedIn">
+                    <a on="tap:amp-access.login-sign-in" class="iwc iwc-f15">
+                        <i class="i i-user iw hv-2" aria-hidden="true"></i>
+                    </a>
+                </div>
+
+                <div class="hdib hv1 lpl-15">
+                    <a class="hax hao fs14 ib ib-chev ibw ib11 fon" on="tap:sidebarLang.open" role="button" aria-label="Open language selection panel" tabindex="0">
+                        <i class="i i-globe iw hv-2" aria-hidden="true"></i>
+                    </a>
+                </div>
+
+                                <div class="hdib lpl-15 lp-xs_l-10">
+                    <span class="hdn" [class]="stateHdr.search ? 'pr hdib' : 'hdn'">
+                        <a class="iwc bhb hdib hdn-s hao fs18" on="tap:AMP.setState({ stateHdr: { search: false, searchDesk: false } })">
+                            <i class="i i-close iw" aria-hidden="true"></i>
+                        </a>
+                        <span class="pa pl50 ch-t ch-ts"></span>
+                    </span>
+                    <span class="" [class]="stateHdr.search ? 'hdn' : ''">
+                        <a class="iwc bo hdib hdn-s hao fs18" on="tap:AMP.setState({ stateHdr: { search: true, searchDesk: true } }), searchword.focus">
+                            <i class="i i-search" aria-hidden="true"></i>
+                        </a>
+                    </span>
+                </div>
+                            </div>
+
+            <div class="hdn hdib-s">
+                <div class="pr hdib lpr-5" amp-access="loggedIn" amp-access-hide>
+                    <template amp-access-template type="amp-mustache">
+                        <a class="profile-dropdown-expand hbtn hbtn-t lmt-5 fs15"
+                            on="tap:AMP.setState({ stateHdr: { userOptions: ! stateHdr.userOptions } })"
+                            role="button" aria-label="View user options" tabindex="0">
+                            <i class="i i-user iw hv-2 lmr-5 fs15 fs16-s" aria-hidden="true"></i>
+                            <span class="tb lpl-2 cdo-username">{{userName}}</span>
+                            <i class="i i-chevron-down iw hv1 fs10 lml-5"
+                                [class]="stateHdr.userOptions ? 'i i-chevron-up iw hv1 fs10 lml-5' : 'i i-chevron-down iw hv1 fs10 lml-5'"
+                                aria-hidden="true"></i>
+                        </a>
+                    </template>
+                        <div class="hdn" [class]="stateHdr.userOptions ? 'pa pr0 pt100 lmt--1 profile-dropdown tc-bd' : 'hdn'">
+        <div class="bw htl hbs lp-20 lpt-15 lpb-15 lmt-10 lmin-150">
+            <ul class="hul-u tw-nw lmb-0 han">
+                <li><a href="/plus/">Cambridge Dictionary +Plus</a></li>
+                <li><a href="/auth/profile">My profile</a></li>
+                <li><a href="/howto.html">+Plus help</a></li>
+                <li><a on="tap:amp-access.login-sign-out" class="logOutBtn">Log out</a></li>
+            </ul>
+        </div>
+    </div>
+                </div>
+                <div class="pr hdib lpr-5" amp-access="NOT loggedIn">
+                    <a on="tap:amp-access.login-sign-in" class="lpr-0 hbtn hbtn-t lmt-5 fs15 cdo-login-button">
+                        <i class="i i-user iw hv-2 lmr-5 fs15 fs16-s" aria-hidden="true"></i>
+                        <span class="tb">Log in</span>
+                    </a> /  <a on="tap:amp-access.login-sign-up" class="lpl-0 hbtn hbtn-t lmt-5 fs15 cdo-register-button">
+                        <span class="tb">Sign up</span>
+                    </a>
+                </div>
+
+                <div class="hdn hdib-xxs lpl-10 lpr-10">
+                    <a class="hax hao fs14 ib ib-chev ibw ib11 fon" on="tap:sidebarLang.open" role="button" aria-label="Open language selection panel" tabindex="0">
+                        <i class="i i-globe iw hv-2" aria-hidden="true"></i>
+                        <span class="hdn hdi-m lpl-2">English (UK)</span>
+                    </a>
+                </div>
+
+                                <div class="hdib lpl-15 lp-xs_l-20">
+                                        <!-- search bar to hide -->
+                    <span class=" pr hdib " [class]="stateHdr.searchDesk?'pr hdib':'pr hdn'">
+                        <a class="hao hbtn hbtn-sm hbtn-br15 bhb lmt-5"
+                                on="tap:AMP.setState({ stateHdr: { search: ! stateHdr.searchDesk, searchDesk: ! stateHdr.searchDesk } })">
+
+                            <i class="i i-close iw hv-2 lpr-2" aria-hidden="true"></i>
+                            <span class="hvm tb">Search</span>
+                        </a>
+                        <span class="pa pl50 ch-t ch-ts"></span>
+                    </span>
+                    <!-- search bar to show -->
+                    <span class=" pr hdn " [class]="stateHdr.searchDesk?'pr hdn':'pr hdib'">
+                        <a class="hao hbtn hbtn-sm hbtn-br15 bo lmt-5" 
+                                on="tap:AMP.setState({ stateHdr: { search: ! stateHdr.searchDesk, searchDesk: ! stateHdr.searchDesk } }), searchword.focus">
+
+                            <i class="i i-search hv-2" aria-hidden="true"></i>
+                            <span class="hvm tb tc-d">Search</span>
+                        </a>
+                    </span>
+                </div>
+                            </div>
+        </div>
+
+        <div class="hoh">
+            <div class="hfl">
+                <div class="hdib hv-3 lpt-15 lpl-15  lpr-15  lp-l_l-25">
+                    <a class="cb hao lpt-2" on="tap:AMP.setState({ stateSearch: { autocomplete: false } }), sidebarNav.open"
+                        role="button" aria-label="Open site navigation panel" tabindex="0"><i></i></a>
+                </div>
+
+                                                <div class="hdib hvt hao tc-bd lpt-10 lpb-2 lpr-15 lbr-s lb-ch ">
+                    <a class="hdib lpb-5  lpt-1 " href="/" title="Cambridge Dictionary">
+                        <amp-img src="/external/images/logo-lrg.png?version=5.0.65" alt="" height="30" width="95" noloading></amp-img>
+                        <noscript>
+                            <img src="/external/images/logo-lrg.png?version=5.0.65" height="30" width="95" class="lpb-5" alt="Cambridge Dictionary" />
+                        </noscript>
+                    </a>
+                </div>
+            </div>
+
+            <nav id="main-nav" class="chn hoh hdn hdb-s fs14">
+                <ul class="hul-u hul-u0 hax hvt tb lmb-0 lml-10">
+                    <li class="hdib"><a href="/dictionary/" 
+                        class="hdb lpt-10 lpb-10 lmr-25  vh-a "><span class="hdib lpt-2">Dictionary</span></a></li>
+                    <li class="hdib"><a href="/translate/" 
+                        class="hdb hao lpt-10 lpb-10 lmr-25 "><span class="hdib lpt-2">Translate</span></a></li>
+                                        <li class="hdib"><a href="/grammar/british-grammar/" 
+                        class="hdb hao lpt-10 lpb-10 lmr-25 "><span class="hdib lpt-2">Grammar</span></a></li>
+                                        <li class="hdib"><a href="/plus/" 
+                        class="hdb hao lpt-10 lpb-10 "><span class="hdib lpt-2">Cambridge Dictionary +Plus</span></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+            <div class=" bs pa p0 pba pr-s chs z0 q250 q0-s lbt lb-ch " [class]="stateHdr.searchDesk ? 'bs pa p0 pba pr-s chs z0 q250 q0-s lbt lb-ch' : 'bs pa p0 pba z0 q250 q0-s lbt lb-ch'">
+            <div class="lp-5 lpl-15 lpr-15 lp-m_l-20 lp-m_r-20">
+                
+<div amp-access="1=1">
+    <template amp-access-template type="amp-mustache">
+        <amp-state id="stateSearch">
+            <script type="application/json">
+                {
+                                            "dataset": "{{preferredDictionaries.0.dataCode}}",
+                        "dataset_text": "{{preferredDictionaries.0.name}}",
+                        "dataset_search": "Search {{preferredDictionaries.0.name}}",
+                                        "autocomplete": false,
+                    "datasetOpen": false,
+                    "term": ""
+                }
+            </script>
+        </amp-state>
+    </template>
+</div>
+
+<form method="GET" action="/search/direct/" target="_top" class="lcs">
+
+    <div class="hfl pr z1  chsf lc1 lc-m6-12 ">
+        <div amp-access="1=1">
+            <template amp-access-template type="amp-mustache">
+                                    <input type="hidden" name="datasetsearch" [value]="stateSearch.dataset" value="{{preferredDictionaries.0.dataCode}}" />
+                            </template>
+        </div>
+                    <div class="hdn hdb-l hfl s s-graphic"></div>
+        
+        <div class="hoh pr">
+            <div class="pa p0 pl0 chsw lc1 lp-l_l-5 z2">
+                <input autofocus aria-label="Search" type="text" name="q" autocomplete="off" aria-required="true"
+                    aria-invalid="false" class="ft fon pr pt0 hbr-20 lc1 lp-10 lpl-15 cdo-search-input"
+                    id="searchword" [placeholder]='stateSearch.dataset_search' 
+                    placeholder="Search "
+                    on="input-debounced: AMP.setState({ stateSearch: { term: event.value, autocomplete: (stateSearch.dataset != 'wordlists' && event.value.length) > 1 ? true : false } }), searchAutoComplete.changeToLayoutContainer(); tap: AMP.setState({ stateSearch: { autocomplete: stateSearch.dataset != 'wordlists' && stateSearch.term.length > 1 } })" />
+            </div>
+
+            <span class="pr hfr lch1 z3">
+                                                <button type="button" aria-label="Choose a dictionary"
+                    class="bw lb0 lp-10 lpt-5 lpb-5 lm-5 lmr-10 lml-0 lbl cdo-dataset-selector"
+                    on="tap:AMP.setState({ stateSearch: { datasetOpen: true, autocomplete: false } }), sidebarDict.open"
+                    title="Choose a dictionary">
+                    <span amp-access="1=1">
+                        <template amp-access-template type="amp-mustache">
+                            <span class="hdn hdib-s tc-d lpl-10 lp-s_r-15" [text]="stateSearch.dataset_text">
+                                                                    {{preferredDictionaries.0.name}}
+                                                            </span>
+                        </template>
+                    </span>
+                    <i class="i i-bars fs14 hv0" aria-hidden="true"></i>
+                </button>
+                <button type="submit" class="bo iwc iwc-40 hao lb0 cdo-search-button" title="Search ">
+                    <i class="i i-search" aria-hidden="true"></i>
+                </button>
+            </span>
+        </div>
+
+        <amp-state id="stateSearchAutocomplete"
+            [src]="(stateSearch.dataset != 'wordlists' && stateSearch.term.length > 1) ? '/autocomplete/amp?dataset=' + stateSearch.dataset + '&q=' + stateSearch.term : 'https://'">
+            <script type="application/json">
+                []
+            </script>
+        </amp-state>
+
+        <div class="hdn hdb-s" [class]="stateHdr.search ? '' : 'hdn hdb-s'">
+            <div class="hdn"
+                [class]="stateSearch.autocomplete && stateSearchAutocomplete.length > 0 && stateHdr.searchDesk ? 'pa pdd  chac-sb  tc-bd bw hbr-20 hbss lpt-25 lpl-5 z0' : 'hdn'">
+
+                <div class="hax fs16 lpt-20 lmb-20">
+                    <amp-list id="searchAutoComplete" reset-on-refresh="always" layout="fixed-height" height="50" binding="no"
+                        [src]="stateSearchAutocomplete" items=".">
+                        <div>
+                            <template type="amp-mustache">
+                                <div class="lmt-5">
+                                    <a href="{{url}}" class="hdb lp-5 lpl-15 lpr-15">
+                                        <span class="haxa">{{word}}</span> 
+                                        {{#beta}}<span class="hdib bvr tc-w tcu fs12 hbr-10 hv1 lpt-2 lp-10 lpt-2 lpb-2 lml-5">Beta</span>{{/beta}}
+                                    </a>
+                                </div>
+                            </template>
+                        </div>
+                    </amp-list>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class=" lpt-2">
+        <div class=" hdn hdb-m hoh chsb lpl-10 ">
+
+            <div amp-access="1=1">
+                <template amp-access-template type="amp-mustache">
+                    {{#preferredDictionaries}}
+                        {{^selected}}
+                                                            <span class="hbtn hbtn-t tb"
+                                    on="tap: AMP.setState({ stateSearch: { dataset: '{{dataCode}}', dataset_text: '{{name}}', dataset_search: 'Search {{name}}' } }), searchword.focus"
+                                    role="button" aria-label="Set dictionary search to {{name}}" tabindex="0">
+                                    {{name}} <i class="hdn" [class]="stateSearch.dataset == '{{dataCode}}' ? 'i i-check ibo fs11 lml-5' : 'hdn'"></i>
+                                </span>
+                                                    {{/selected}}
+                    {{/preferredDictionaries}}
+                </template>
+            </div>
+
+        </div>
+    </div>
+
+</form>
+            </div>
+        </div>
+    </header>
+
+    <div class="cc  fon" [class]="stateHdr.searchDesk ? 'cc fon' : 'cc cc-ns fon'" role="main" on="tap: AMP.setState({ stateHdr: { userOptions: false }, stateSearch: { autocomplete: false } })" aria-label="Close header popups" tabindex="0">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+        
+                     
+
+                    
+        
+    
+<div class="x lpl-10 lpr-10 lpt-10 lpb-25 lmax lp-m_l-20 lp-m_r-20">
+    <div class="hfr-m ltab lp-m_l-20">
+        <br/>
+        <h1>404. Page not found.</h1>
+        <p class="content1 responsivee_hide_on_smartphone">The requested URL was not found on the server. That's all we know. You can try the following options instead:</p>
+        <ul class="hul-u hul-un han">
+            <li><a class="tb" href="https://dictionary.cambridge.org/">Back to home page</a></li>
+            <li><a class="tb" href="/help/">Help</a></li>
+            <li><a class="tb" href="https://dictionary.cambridge.org/browse/">Browse our dictionaries</a></li>
+        </ul>
+        <div class="hfl-s lt2b lmt-10 lmb-25 lp-s_r-20">
+            <article id="page-content" class="x" role="main">
+    <div id="entryContent" class="han tc-bd english" lang="en" itemscope itemtype="http://schema.org/WebPage">
+        <div itemprop="author" itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop="name" content='Cambridge Dictionary' />
+        </div>
+        <meta itemprop="headline" content="missing definition: 1. Someone who is missing has disappeared:  2. Something that is missing cannot be found because it&hellip;. Learn more." />
+        <meta itemprop="copyrightHolder" content="&copy; Cambridge University Press" />
+        <meta itemprop="copyrightYear" content="2019" />
+        <meta itemprop="inLanguage" content="en" />
+        <meta itemprop="genre" content="Absent" />
+        <meta itemprop="genre" content="Soldiers &amp; people who fight in wars" />
+        <div class="page">
+            <div data-type="sorter">
+                <div class="pr dictionary" data-type="sorted" data-id="cald4" data-tab="ds-cald4" role="tabpanel">
+                    <div class="link">
+                        <div class="di superentry" itemprop="text">
+                            <div class="pr x lbb lb-cm">
+                            </div>
+                            <div class="di-body">
+                                <div class="entry">
+                                    <div class="entry-body">
+                                        <div class="entry-body__el">
+                                            <div class="pos-header dpos-h">
+                                                <div class="di-title">
+                                                    <h2 class="headword dhw dpos-h_hw">
+                                                        <span class="hw dhw">missing</span>
+                                                    </h2>
+                                                    <div class="posgram dpos-g"><span class="pos dpos" title="A word that describes a noun or pronoun.">adjective</span></div>
+                                                </div>
+                                                <span class="uk">
+                                                    <span class="region dreg">uk</span>
+                                                    <span class="daud">
+                                                        <amp-audio width="20px" height="30px" preload="none" controlsList="nodownload" class="c_aud tc-bd htc i i-volume-up" title="missing: listen to British English pronunciation">
+                                                            <div fallback>
+                                                                <p>Your browser doesn't support HTML5 audio</p>
+                                                            </div>
+                                                            <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukm/ukmis/ukmispr013.mp3"/>
+                                                            <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukm/ukmis/ukmispr013.ogg"/>
+                                                        </amp-audio>
+                                                    </span>
+                                                    <span class="pron dpron">/<span class="ipa dipa">ˈmɪs.ɪŋ</span>/</span>  
+                                                </span>
+                                                <span class="us">
+                                                    <span class="region dreg">us</span>
+                                                    <span class="daud">
+                                                        <amp-audio width="20px" height="30px" preload="none" controlsList="nodownload" class="c_aud tc-bd htc i i-volume-up" title="missing: listen to American pronunciation">
+                                                            <div fallback>
+                                                                <p>Your browser doesn't support HTML5 audio</p>
+                                                            </div>
+                                                            <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/us_pron/m/mis/missi/missing.mp3"/>
+                                                            <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/us_pron_ogg/m/mis/missi/missing.ogg"/>
+                                                        </amp-audio>
+                                                    </span>
+                                                    <span class="pron dpron">/<span class="ipa dipa">ˈmɪs.ɪŋ</span>/</span>  
+                                                </span>
+                                            </div>
+                                            <div class="pos-body">
+                                                <div class="sense-block pr dsense dsense-noh">
+                                                    <div class="sense-body dsense_b">
+                                                        <div class="def-block ddef_block " data-wl-senseid="ID_00020540_02">
+                                                            <div class="def-head ddef_h">
+                                                                <span class="def-info ddef-info"><span class="epp-xref dxref B1">B1</span> </span>
+                                                                <div class="def ddef_d">Something that is missing cannot be <a class="query" href="https://dictionary.cambridge.org/dictionary/english/found" title="found">found</a> because it is not where it should be: </div>
+                                                            </div>
+                                                            <div class="def-body ddef_b">
+                                                                <div class="examp dexamp"><span class="eg deg">The <a class="query" href="https://dictionary.cambridge.org/dictionary/english/burglar" title="burglars">burglars</a> have been <a class="query" href="https://dictionary.cambridge.org/dictionary/english/arrest" title="arrested">arrested</a> but the <a class="query" href="https://dictionary.cambridge.org/dictionary/english/jewellery" title="jewellery">jewellery</a> is still missing.</span></div>
+                                                                <div class="examp dexamp"> <span class="eg deg">When did you <a class="query" href="https://dictionary.cambridge.org/dictionary/english/realize" title="realize">realize</a> that the <a class="query" href="https://dictionary.cambridge.org/dictionary/english/money" title="money">money</a> was missing <b class="b">from</b> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/your" title="your">your</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/account" title="account">account</a>?</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="def-block ddef_block " data-wl-senseid="ID_00020540_03">
+                                                            <div class="def-head ddef_h">
+                                                                <span class="def-info ddef-info">  </span>
+                                                                <div class="def ddef_d">Missing <a class="query" href="https://dictionary.cambridge.org/dictionary/english/soldier" title="soldiers">soldiers</a> or <a class="query" href="https://dictionary.cambridge.org/dictionary/english/military" title="military">military</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/vehicle" title="vehicles">vehicles</a> have not <a class="query" href="https://dictionary.cambridge.org/dictionary/english/return" title="returned">returned</a> from <a class="query" href="https://dictionary.cambridge.org/dictionary/english/fight" title="fighting">fighting</a> in a <a class="query" href="https://dictionary.cambridge.org/dictionary/english/war" title="war">war</a> but are not <a class="query" href="https://dictionary.cambridge.org/dictionary/english/known" title="known">known</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/completely" title="completely">completely</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/certainly" title="certainly">certainly</a> to be <a class="query" href="https://dictionary.cambridge.org/dictionary/english/dead" title="dead">dead</a> or <a class="query" href="https://dictionary.cambridge.org/dictionary/english/destroy" title="destroyed">destroyed</a>: </div>
+                                                            </div>
+                                                            <div class="def-body ddef_b">
+                                                                <div class="examp dexamp"><span class="eg deg">He was <b class="b"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/list" title="listed">listed</a> as</b> missing <b class="b">in <a class="query" href="https://dictionary.cambridge.org/dictionary/english/action" title="action">action</a></b>.</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="daccord">
+                                                            <amp-accordion>
+                                                                <section  
+                                                                    expanded
+                                                                    >
+                                                                    <header class="ca_h daccord_h">
+                                                                        <i class="i i-plus ca_hi"></i>
+                                                                        More examples
+                                                                    </header>
+                                                                    <ul class="hul-u hul-u0 ca_b daccord_b">
+                                                                        <li class="eg dexamp">The <a class="query" href="https://dictionary.cambridge.org/dictionary/english/police" title="police">police</a> have called off the <a class="query" href="https://dictionary.cambridge.org/dictionary/english/search" title="search">search</a> for the missing <a class="query" href="https://dictionary.cambridge.org/dictionary/english/child" title="child">child</a> until <a class="query" href="https://dictionary.cambridge.org/dictionary/english/dawn" title="dawn">dawn</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/tomorrow" title="tomorrow">tomorrow</a>.</li>
+                                                                        <li class="eg dexamp">The missing <a class="query" href="https://dictionary.cambridge.org/dictionary/english/letter" title="letter">letter</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/eventually" title="eventually">eventually</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/turn" title="turned">turned</a> up inside a <a class="query" href="https://dictionary.cambridge.org/dictionary/english/book" title="book">book</a>.</li>
+                                                                        <li class="eg dexamp">A <a class="query" href="https://dictionary.cambridge.org/dictionary/english/search" title="search">search</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/party" title="party">party</a> was <a class="query" href="https://dictionary.cambridge.org/dictionary/english/sent" title="sent">sent</a> out to <a class="query" href="https://dictionary.cambridge.org/dictionary/english/look" title="look">look</a> for the missing <a class="query" href="https://dictionary.cambridge.org/dictionary/english/climber" title="climbers">climbers</a>.</li>
+                                                                        <li class="eg dexamp">All of the ship's <a class="query" href="https://dictionary.cambridge.org/dictionary/english/crew" title="crew">crew</a> are missing, <a class="query" href="https://dictionary.cambridge.org/dictionary/english/believe" title="believed">believed</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/dead" title="dead">dead</a>.</li>
+                                                                        <li class="eg dexamp">This <a class="query" href="https://dictionary.cambridge.org/dictionary/english/jigsaw" title="jigsaw">jigsaw</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/puzzle" title="puzzle">puzzle</a> has two <a class="query" href="https://dictionary.cambridge.org/dictionary/english/piece" title="pieces">pieces</a> missing.</li>
+                                                                    </ul>
+                                                                </section>
+                                                            </amp-accordion>
+                                                        </div>
+                                                    </div>
+                                                    <div class="smartt daccord">
+                                                        <amp-accordion disable-session-states>
+                                                            <section  
+                                                                >
+                                                                <header class="ca_h daccord_h">
+                                                                    <i class="i i-plus ca_hi"></i>
+                                                                    Thesaurus: synonyms and related words                        
+                                                                </header>
+                                                                <div class="ca_b had daccord_b daccord_l">
+                                                                    <div class="daccord_lt">
+                                                                        <a href="https://dictionary.cambridge.org/topics/space/absent/" title="Synonyms and related words for missing in the Absent topic">Absent</a>
+                                                                    </div>
+                                                                    <div class="daccord_lb">
+                                                                        <ul class="hul-u hul-u0 hax lmb-10 lcs">
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="absence" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/absence?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">absence</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="absent" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/absent?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">absent</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="absentee" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/absentee?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">absentee</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="absenteeism" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/absenteeism?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">absenteeism</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="AWOL" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/awol?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">AWOL</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="be conspicuous by your absence idiom" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/be-conspicuous-by-your-absence?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="phrase haf">be conspicuous by <span class="obj">your</span> absence</span></span> <span class="pos">idiom</span> </span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="conspicuous" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/conspicuous?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">conspicuous</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="go AWOL idiom" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/go-awol?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="phrase haf">go AWOL</span></span> <span class="pos">idiom</span> </span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="in absentia" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/in-absentia?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">in absentia</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="lacuna" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/lacuna?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">lacuna</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="miss" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/miss?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">miss</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="missing person" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/missing-person?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">missing person</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="no-show" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/no-show?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">no-show</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="nowhere" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/nowhere?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">nowhere</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="nowhere to be found idiom" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/nowhere-to-be-found?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="phrase haf">nowhere to be found</span></span> <span class="pos">idiom</span> </span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="out" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/out?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">out</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="out of station idiom" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/out-of-station?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="phrase haf">out of station</span></span> <span class="pos">idiom</span> </span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="station" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/station?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">station</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                                                                <a title="unaccounted for" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/unaccounted-for?topic=absent ">
+                                                                                <span class="results"><span class="base"><span class="hw haf">unaccounted for</span></span></span>
+                                                                                </a>
+                                                                            </li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="lmt-20">
+                                                                        <p>You can also find related words, phrases, and synonyms in the topics:</p>
+                                                                        <div>
+                                                                            <div class="lmb-5">
+                                                                                <a href="https://dictionary.cambridge.org/topics/military-and-armed-forces/soldiers-and-people-who-fight-in-wars/" class="tb" title="Synonyms and related words for missing in the Soldiers &amp; people who fight in wars topic">Soldiers & people who fight in wars</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </section>
+                                                        </amp-accordion>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>            <a href="https://dictionary.cambridge.org/dictionary/english/missing" class="bh hao hbtn hbtn-tab tb">
+                View full entry            </a>
+        </div>
+        <div class="hfr-s lt2s lmt-10">
+            
+        <div class="pr bw hbss x lmb-25">
+    
+    <div class="pr boa lp-5 lpl-10 lpr-10 lc1">
+                    <div class="pr hdib i i-facebook lp-5 lmr-10">
+            <a class="pa p0" target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Fflight-path&t=" title="Share on Facebook"></a>
+        </div>
+        <div class="pr hdib i i-twitter lp-5 lmr-10">
+            <a class="pa p0" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Fflight-path&text=" title="Share on Twitter"></a>
+        </div>
+    
+        <div class="htc hax lmt-20 lmb-25">
+            <p class="fs12 tcu lmb-0">Word of the Day</p>
+            <p class="fs36 tcl lmt-5 feature-w-big wotd-hw">
+                <a href="/dictionary/english/flight-path">flight path</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="hoh lp-20">
+        <p class="lmt-0 lmb-20">a route followed by an aircraft</p>
+
+        <a href="/dictionary/english/flight-path" class="bh hao hbtn hbtn-tab tb">About this</a>
+    </div>
+</div>
+            
+        
+        <div class="bw hbss x lmb-25">
+            <a href="https://dictionaryblog.cambridge.org/2019/12/18/a-frog-in-my-throat-talking-about-voices/" target="_blank" rel="noopener" class="hdb hao lc1">
+            <amp-img src="/rss/images/frogthroat.jpg" height="180" width="300" alt="A frog in my throat: talking about voices" layout="responsive">
+                <noscript>
+                    <img src="/rss/images/frogthroat.jpg" height="180" width="300" alt="A frog in my throat: talking about voices" class="lc1" />
+                </noscript>
+            </amp-img>
+        </a>
+        
+    <div class="hoh lp-20">
+        <p class="h6 lm-0 lmb-15">Blog</p>
+        <p class="fs19 hlh1_5 lmb-15">
+            <a href="https://dictionaryblog.cambridge.org/2019/12/18/a-frog-in-my-throat-talking-about-voices/" class="ha" target="_blank" rel="noopener">A frog in my throat: talking about voices</a>
+        </p>
+        <div class="fs14 tc-bl lmb-20">
+                        <time datetime="2019-12-18">December 18, 2019</time>
+        </div>
+        <div>
+            <a href="https://dictionaryblog.cambridge.org/2019/12/18/a-frog-in-my-throat-talking-about-voices/" target="_blank" rel="noopener" class="bh hao hbtn hbtn-tab tb"><span>Read More</span></a>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+    </div>
+
+    
+    <script>
+        var gigyaAuthEnabled = true;
+        var thresholdPublic = 5;
+    </script>
+
+<amp-state id="stateFtr">
+    <script type="application/json">
+        {
+        "learn": false,
+        "develop": false,
+        "about": false
+        }
+    </script>
+</amp-state>
+
+  
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '511637499182506'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=511637499182506&ev=PageView
+&noscript=1"/>
+</noscript>
+
+<div class="lbt cdo-promo">
+    <div class="lmax">
+
+        <div class="hax tc-d lcs lp-s_t-25 lp-s_b-25">
+
+                        <div class="hao lc lc1 lbb lpt-15 lpb-15 lpl-20 lpr-20 lc-s6-12 lbb0-s lbr-s">
+                <div class="sb sb-promo-widget">
+                    <a class="hdib tc-hh cpb" href="/freesearch.html" title="Get our free widgets">
+                        <div class="fs18 tc-hhi">Get our free widgets</div>
+                        <div class="fs13 lmt-5">Add the power of Cambridge Dictionary to your website using our free search box widgets.</div>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="hao lc lc1 lpt-15 lpb-15 lpl-20 lpr-20 lc-s6-12">
+                <div class="sb sb-promo-apps">
+                    <a class="hdib cpb" href="http://www.cambridgemobileapps.com/" rel="external" title="Dictionary apps">
+                        <div class="fs18">Dictionary apps</div>
+                        <div class="fs13 lmt-5">Browse our dictionary apps today and ensure you are never again lost for words.</div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<footer id="footer" class="pr bh han cf lp-s_25 lp-s_t-15">
+    <div class="lcs lp-l_l-25 lp-l_r-25 lmax">
+
+        
+        <div class="lpt-10 lpb-20 lpr-10 hdn hdb-xs hdn-s hfr-xs">
+            <div class="hfl hax htc tc-w lc1 lc-xsa lb-ch lbb0-xs lpt-10 lp-xs_t-0">
+    <a href="https://www.facebook.com/CambridgeDictionariesOnline/" target="_blank" rel="noopener noreferrer external" class="pr hdb hao b-sf pa p0 pra cfsi htc lml-20 lmr-20 hdib hfl-s" title="Become our fan!">
+        <i class="i i-facebook iw lpl-1" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.instagram.com/cambridgewords" target="_blank" rel="noopener noreferrer external" class="pr hdb hao b-si pa p0 pra cfsi htc lml-20 lmr-20 hdib hfl-s" title="Follow our Instagram!">
+        <i class="i i-instagram iw lpl-1" aria-hidden="true"></i>
+    </a>
+    <a href="https://twitter.com/CambridgeWords" target="_blank" rel="noopener noreferrer external" class="pr hdb hao b-st pa p0 pra cfsi htc lml-20 lmr-20 hdib hfl-s" title="Follow us!">
+        <i class="i i-twitter iw lpl-1" aria-hidden="true"></i>
+    </a>
+</div>
+
+<div class="hcb htc hfr-s hcl-s fs12 lpb-20 lpt-20 lp-xs_t-10 lp-s_t-15">
+    <a class="hdib s s-logo-footer" href="http://www.cambridge.org/" title="Cambridge University Press" rel="external"></a>
+    <p>© Cambridge University Press 2019</p>
+</div>
+        </div>
+
+        <div class="cfn hfl-s lc1 lc-xsa">
+            <nav>
+                <ul class="hul-u hul-un hul-u0 lmb-0 lcs">
+                    <li class="cfnl hfl-s lp-s_r-20 lbb lb-ch lbb0-s">
+                        <div class="tc-w fs18 hax hdn-s">
+                            <a class="pr hdb fs12 tcu lp-15 lpt-5 lpb-5" on="tap:AMP.setState({ stateFtr: { learn: ! stateFtr.learn } })">
+                                Learn
+                                <span class="hdn-m"><i class="i i-plus ibw pa cfni" [class]="stateFtr.learn ? 'i i-minus ibw pa cfni' : 'i i-plus ibw pa cfni'"></i></span>
+                            </a>
+                        </div>
+                        <div class="lpl-15 lp-s_l-0">
+                            <ul class="fs14 hdn hdb-s" [class]="stateFtr.learn ? 'fs14' : 'fs14 hdn hdb-s'">
+                                <li class="hdn hdb-s tc-w lpb-5"><a href="/learn.html" class="fs12 tcu">Learn</a></li>
+                                <li class="hdn-s"><a href="/learn.html">Learn</a></li>
+                                <li><a href="https://dictionaryblog.cambridge.org/category/new-words/">New Words</a></li>
+                                <li><a href="/help/">Help</a></li>
+	                            <li><a href="http://www.cambridge.org/gb/cambridgeenglish/catalog/dictionaries" target="_blank" rel="noopener">In Print</a></li>
+	                        </ul>
+                        </div>
+                    </li>
+                    <li class="cfnl hfl-s lp-s_r-20 lp-s_l-20 lbb lb-ch lbb0-s">
+                        <div class="tc-w fs18 hax hdn-s">
+                            <a class="pr hdb fs12 tcu lp-15 lpt-5 lpb-5" on="tap:AMP.setState({ stateFtr: { develop: ! stateFtr.develop } })">
+                                Develop
+                                <span class="hdn-m"><i class="i i-plus ibw pa cfni" [class]="stateFtr.develop ? 'i i-minus ibw pa cfni' : 'i i-plus ibw pa cfni'"></i></span>
+                            </a>
+                        </div>
+                        <div class="lpl-15 lp-s_l-0">
+                            <ul class="fs14 hdn hdb-s" [class]="stateFtr.develop ? 'fs14' : 'fs14 hdn hdb-s'">
+                                <li class="hdn hdb-s tc-w lpb-5"><a href="/develop.html" class="fs12 tcu">Develop</a></li>
+                                <li class="hdn-s"><a href="/develop.html">Develop</a></li>
+                                <li><a href="http://dictionary-api.cambridge.org" target="_blank" rel="noopener">Dictionary API</a></li>
+                                <li><a href="/doubleclick.html">Double-Click Lookup</a></li>
+	                            <li><a href="/freesearch.html">Search Widgets</a></li>
+	                            <li><a href="/license.html">License Data</a></li>
+                            </ul>
+                       	</div>
+                    </li>
+                    <li class="cfnl hfl-s lp-s_r-20 lp-s_l-20 lbb lb-ch lbb0-s">
+                        <div class="tc-w fs18 hax hdn-s">
+                            <a class="pr hdb fs12 tcu lp-15 lpt-5 lpb-5" on="tap:AMP.setState({ stateFtr: { about: ! stateFtr.about } })">
+                                About
+                                <span class="hdn-m"><i class="i i-plus ibw pa cfni" [class]="stateFtr.about ? 'i i-minus ibw pa cfni' : 'i i-plus ibw pa cfni'"></i></span>
+                            </a>
+                        </div>
+                        <div class="lpl-15 lp-s_l-0">
+                            <ul class="fs14 hdn hdb-s" [class]="stateFtr.about ? 'fs14' : 'fs14 hdn hdb-s'">
+                                <li class="hdn hdb-s tc-w lpb-5"><a href="/about.html" class="fs12 tcu">About</a></li>
+                                <li class="hdn-s"><a href="/about.html">About</a></li>
+                                <li><a href="http://www.cambridge.org/policy/accessibility/" target="_blank" rel="noopener">Accessibility</a></li>
+                                <li><a href="http://www.cambridge.org/us/cambridgeenglish" target="_blank" rel="noopener">Cambridge English</a></li>
+	                            <li><a href="http://www.cambridge.org/" target="_blank" rel="noopener">Cambridge University Press</a></li>
+                                	                            <li><a href="http://www.cambridge.org/about-us/legal-notices/privacy-notice" target="_blank" rel="noopener">Cookies and Privacy</a></li>
+	                            <li><a href="http://www.cambridge.org/elt/corpus/" target="_blank" rel="noopener">Corpus</a></li>
+	                            <li><a href="http://www.cambridge.org/about-us/terms-use/" target="_blank" rel="noopener">Terms of Use</a></li>
+	                                                    	</ul>
+                       	</div>
+                    </li>
+                </ul>
+
+            </nav>
+        </div>
+
+        <div class="cfd lpb-20 hdn-xs hdb-s hfr-s">
+            <div class="hfl hax htc tc-w lc1 lc-xsa lb-ch lbb0-xs lpt-10 lp-xs_t-0">
+    <a href="https://www.facebook.com/CambridgeDictionariesOnline/" target="_blank" rel="noopener noreferrer external" class="pr hdb hao b-sf pa p0 pra cfsi htc lml-20 lmr-20 hdib hfl-s" title="Become our fan!">
+        <i class="i i-facebook iw lpl-1" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.instagram.com/cambridgewords" target="_blank" rel="noopener noreferrer external" class="pr hdb hao b-si pa p0 pra cfsi htc lml-20 lmr-20 hdib hfl-s" title="Follow our Instagram!">
+        <i class="i i-instagram iw lpl-1" aria-hidden="true"></i>
+    </a>
+    <a href="https://twitter.com/CambridgeWords" target="_blank" rel="noopener noreferrer external" class="pr hdb hao b-st pa p0 pra cfsi htc lml-20 lmr-20 hdib hfl-s" title="Follow us!">
+        <i class="i i-twitter iw lpl-1" aria-hidden="true"></i>
+    </a>
+</div>
+
+<div class="hcb htc hfr-s hcl-s fs12 lpb-20 lpt-20 lp-xs_t-10 lp-s_t-15">
+    <a class="hdib s s-logo-footer" href="http://www.cambridge.org/" title="Cambridge University Press" rel="external"></a>
+    <p>© Cambridge University Press 2019</p>
+</div>
+        </div>
+    </div>
+</footer>
+
+<a class="iwc bhb pf ctop" on="tap:top.scrollTo"><i class="i i-chevron-up iw"></i></a>
+
+<div amp-access="1=1">
+    <template amp-access-template type="amp-mustache">
+        {{#notifications}}
+        <amp-user-notification id="{{id}}"
+              data-persist-dismissal="false"
+              data-dismiss-href="https://dictionary.cambridge.org/notification/dismiss"
+              enctype="application/x-www-form-urlencoded"
+              class="c_not hflx-c tc-w lp-10 {{cssClass}}"
+              layout="nodisplay">
+              {{{message}}}
+              {{#secondaryButtonUrl}}
+              <button type="button" class="n-button bw hao hbtn hbtn-tab tb tc-bd" on="tap:{{id}}.dismiss, AMP.navigateTo(url='https://dictionary.cambridge.org{{secondaryButtonUrl}}')">
+                  {{{secondaryButtonLabel}}}
+              </button>
+              {{/secondaryButtonUrl}}
+              {{#dismissable}}
+              <button type="button" id="notification-close-button" class="n-button bw hao hbtn hbtn-tab tb tc-bd" on="tap:{{id}}.dismiss{{#redirectUrl}}, AMP.navigateTo(url='https://dictionary.cambridge.org{{redirectUrl}}'){{/redirectUrl}}">
+                  {{{closeMessage}}}
+              </button>
+              {{/dismissable}}
+         </amp-user-notification>
+        {{/notifications}}
+    </template>
+</div>
+
+
+  <script type='text/javascript'>
+    var aBk = true;
+  </script>
+  <script type='text/javascript' src="/external/scripts/ads.min.js?version=5.0.65" ></script>
+    <script type='text/javascript'>
+  var aData = {"aBk":aBk};
+  </script>
+  <script async src="https://d1yu67rmchodpo.cloudfront.net/audience.js">
+  {
+    "values": {
+      "lang": "br",
+      "dict_code": "english",
+      "project":"CDO"},
+    "version": "prod",
+    "region": "us-east-1",
+    "key": "fopwljxz7l",
+    "dynamic" : "aData"
+  }
+  </script>
+
+  <script type='text/javascript'>
+    ga('send','event','aBk','aBk',''+aBk,{'nonInteraction':1});
+    (function() {
+      if(!(typeof evtCall=="undefined"))
+        for(var i=0,l=evtCall.length;i!==l;i++)
+          evtCall[i].call();
+    })();
+  </script>
+
+</body>
+</html>
