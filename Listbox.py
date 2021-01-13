@@ -2,11 +2,10 @@ from tkinter import *
 import os
 
 def PrintText(self):
-    LibraryText.delete('1.0', END)
-    with open(filename + '/Definitions/' + VocabsListBox.selection_get() + '.txt', 'r') as File:
+        with open(filename + '/Definitions/' + VocabsListBox.selection_get() + '.txt', 'r') as File:
         LibraryText.insert(END,File.read())
     LibraryText.pack(side = RIGHT, fill = BOTH, expand = True)
-Root = Tk()
+Root = Tk()                                                                                                                                                                                                         
 Root.geometry('500x400')
 Root.title('Test')
 filename = os.getcwd()

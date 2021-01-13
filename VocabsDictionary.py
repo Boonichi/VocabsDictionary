@@ -109,19 +109,19 @@ def DownloadAudio(Vocab):
     USAudio = requests.get(CambridgeLink + LinkAudio(USSearchContent))
     WriteFile(filename+ '/VocabsAudio' +'/'+ Vocab + '_US' + '.mp3',UKAudio.content)
 def DefinitionVocab(Vocab):
-    Page = requests.get(OxFordLink + Vocab)
+    print(OxFordLink + Vocab+'_1')
+    Page = requests.get(OxFordLink + Vocab+'_1')
     soup = BS(Page.content, 'lxml')
     if not os.path.exists(filename+'/Definitions'):
         os.mkdir(filename+'/Definitions')
     File = open(filename +'/Definitions/' + Vocab+'.txt','w')
     File.close()
+    print(soup)
     SoupContent = soup.find( attrs = {'class':'sn-gs'})
-    print(SoupContent)
-    SoupContent = SoupContent.findAll( attrs = {'class':'sn-g'})
-    print(SoupContent)
+    SoupContent = SoupContent.findall( attrs = {'class':'sn-g'})
     for Index in range(len(SoupContent)):
         VocabsDefinition = SoupContent[Index].find('span', attrs= {'class':'def'})
-        VocabsExamples = SoupContent[Index].find('span', attrs={'class':'x-gs'})
+        VocabsExamples = SoupContent[Index ].find('span', attrs={'class':'x-gs'})
         FormatPassage(Vocab,Index,remove_html_tags(str(VocabsDefinition)),remove_html_tags(str(VocabsExamples)))
 def Vocabs_Handle():
     inputValue=VocabsInput.get("1.0",END)
@@ -135,7 +135,7 @@ VocabsInput =Text(Mid_Frame, width = 50, height = 20)
 VocabsInput.pack(fill = BOTH, expand = TRUE)
 ###
 ### Button Settings:
-QuitButton = Button(Bottom_Frame, text = "QUIT", fg = "Black", bg = "White", command = quit).grid(row = 0, column = 0,sticky = W)
+###QuitButton = Button(Bottom_Frame, text = "QUIT", fg = "Black", bg = "White", command = quit).grid(row = 0, column = 0,sticky = W)
 Change_FolderButton = Button(Bottom_Frame, text = "Change Folder", fg = "Black", bg = "White", command = Change_Folder).grid(row = 0,column = 1, sticky = E)
 AddButton=Button(Bottom_Frame, fg = "Black", bg = "White" ,text="ADD", command=Vocabs_Handle).grid(row = 0, column = 2,sticky = E)
 ###
